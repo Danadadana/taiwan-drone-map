@@ -1,0 +1,692 @@
+<title>全台無人機產業地圖</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{
+  --bg:#F4F5F3; --surface:#FCFCFA; --surface2:#EDEFEA;
+  --ink:#23272A; --muted:#6C7268; --line:#DCDFD7;
+  --olive:#4B5D46; --olive-strong:#3A4A36; --copper:#C2703D; --copper-soft:#E8D5C6;
+  --pin:#4B5D46; --pin-ring:rgba(75,93,70,.28);
+  --warn-bg:#F6E8DC; --warn-ink:#8A4A1D;
+  --shadow:0 10px 30px rgba(35,39,42,.14);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#171A17; --surface:#1F231E; --surface2:#262B24;
+    --ink:#E7EAE2; --muted:#98A190; --line:#31372E;
+    --olive:#8AA37E; --olive-strong:#A9BF9D; --copper:#D98D55; --copper-soft:#4A3423;
+    --pin:#8AA37E; --pin-ring:rgba(138,163,126,.3);
+    --warn-bg:#3A2A1C; --warn-ink:#E9B98C;
+    --shadow:0 10px 30px rgba(0,0,0,.5);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#171A17; --surface:#1F231E; --surface2:#262B24;
+  --ink:#E7EAE2; --muted:#98A190; --line:#31372E;
+  --olive:#8AA37E; --olive-strong:#A9BF9D; --copper:#D98D55; --copper-soft:#4A3423;
+  --pin:#8AA37E; --pin-ring:rgba(138,163,126,.3);
+  --warn-bg:#3A2A1C; --warn-ink:#E9B98C;
+  --shadow:0 10px 30px rgba(0,0,0,.5);
+}
+:root[data-theme="light"]{
+  --bg:#F4F5F3; --surface:#FCFCFA; --surface2:#EDEFEA;
+  --ink:#23272A; --muted:#6C7268; --line:#DCDFD7;
+  --olive:#4B5D46; --olive-strong:#3A4A36; --copper:#C2703D; --copper-soft:#E8D5C6;
+  --pin:#4B5D46; --pin-ring:rgba(75,93,70,.28);
+  --warn-bg:#F6E8DC; --warn-ink:#8A4A1D;
+  --shadow:0 10px 30px rgba(35,39,42,.14);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:"PingFang TC","Noto Sans TC","Microsoft JhengHei",system-ui,-apple-system,sans-serif;
+  font-size:15px; line-height:1.65;
+}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+a{color:var(--copper)}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+
+/* ---------- header ---------- */
+header{
+  position:sticky; top:0; z-index:40;
+  background:color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--line);
+}
+.hd{max-width:1200px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;gap:1px;min-width:0}
+.brand .eyebrow{font-size:10px;letter-spacing:.22em;color:var(--muted);text-transform:uppercase}
+.brand h1{margin:0;font-size:19px;font-weight:800;letter-spacing:.02em;white-space:nowrap}
+nav{display:flex;gap:4px;margin-left:auto}
+nav button{
+  padding:7px 14px;border-radius:6px;font-weight:600;color:var(--muted);
+}
+nav button:hover{color:var(--ink);background:var(--surface2)}
+nav button.on{color:var(--bg);background:var(--olive)}
+nav button:focus-visible,.chip:focus-visible,.tile:focus-visible{outline:2px solid var(--copper);outline-offset:2px}
+
+/* ---------- map view ---------- */
+.viewwrap{max-width:1200px;margin:0 auto;padding:14px 20px 40px}
+.map-shell{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+#mapsvg{display:block;width:100%;height:calc(100vh - 210px);min-height:430px;touch-action:none;cursor:grab}
+#mapsvg.dragging{cursor:grabbing}
+.county{fill:var(--surface2);stroke:var(--line);stroke-width:.8;vector-effect:non-scaling-stroke}
+.county:hover{fill:color-mix(in srgb, var(--surface2) 80%, var(--olive) 20%)}
+.pin{fill:var(--pin);stroke:var(--bg);cursor:pointer}
+.pin:hover{fill:var(--copper)}
+.pinhit{fill:transparent;cursor:pointer}
+.cluster{fill:var(--olive);cursor:pointer;opacity:.92}
+.cluster:hover{fill:var(--copper)}
+.cluster-label{fill:var(--bg);font-weight:700;text-anchor:middle;pointer-events:none;
+  font-family:ui-monospace,"SF Mono",Menlo,monospace}
+.maptools{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:6px}
+.maptools button{
+  width:34px;height:34px;border-radius:7px;background:var(--surface);border:1px solid var(--line);
+  font-size:17px;font-weight:700;box-shadow:var(--shadow)
+}
+.mapcount{position:absolute;left:12px;bottom:10px;font-size:12px;color:var(--muted)}
+#tooltip{
+  position:fixed;z-index:80;pointer-events:none;display:none;
+  background:var(--ink);color:var(--bg);font-size:12px;padding:4px 9px;border-radius:5px;max-width:240px
+}
+
+/* ---------- filters ---------- */
+.filters{display:flex;flex-direction:column;gap:8px;margin:0 0 12px}
+.filterrow{display:flex;gap:6px;align-items:center;overflow-x:auto;padding-bottom:2px;scrollbar-width:thin}
+.filterrow .lbl{font-size:11px;letter-spacing:.14em;color:var(--muted);flex:0 0 auto;text-transform:uppercase}
+.chip{
+  flex:0 0 auto;padding:4px 12px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);font-size:13px;color:var(--muted);white-space:nowrap
+}
+.chip:hover{border-color:var(--olive);color:var(--ink)}
+.chip.on{background:var(--olive);border-color:var(--olive);color:var(--bg);font-weight:600}
+.searchbox{
+  width:100%;max-width:330px;padding:7px 12px;border-radius:7px;border:1px solid var(--line);
+  background:var(--surface);color:var(--ink);font:inherit;font-size:14px
+}
+.searchbox:focus{outline:2px solid var(--olive);outline-offset:0;border-color:transparent}
+
+/* ---------- chain view ---------- */
+.chain-head{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin:6px 0 4px}
+.chain-head h2{margin:0;font-size:22px;font-weight:800}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{padding:6px 16px;font-size:13px;font-weight:600;color:var(--muted);background:var(--surface)}
+.seg button.on{background:var(--olive);color:var(--bg)}
+.chain-note{font-size:13px;color:var(--muted);margin:0 0 14px}
+.rolebox{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 16px}
+.rolebox h3{margin:0 0 2px;font-size:16px;font-weight:800;display:flex;align-items:baseline;gap:10px}
+.rolebox h3 .cnt{font-size:12px;color:var(--copper);font-weight:600;font-family:ui-monospace,"SF Mono",Menlo,monospace}
+.rolebox p.desc{margin:0 0 12px;font-size:12.5px;color:var(--muted)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:8px}
+.tile{
+  display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 6px 8px;
+  border:1px solid var(--line);border-radius:8px;background:var(--bg);text-align:center
+}
+.tile:hover{border-color:var(--copper);transform:translateY(-1px)}
+.tile img,.tile .ini{width:46px;height:46px;object-fit:contain;border-radius:6px;background:#fff}
+.tile .ini{
+  display:flex;align-items:center;justify-content:center;font-weight:800;font-size:16px;
+  color:var(--bg);background:var(--olive)
+}
+.tile .nm{font-size:11.5px;line-height:1.35;color:var(--ink);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* ---------- modal ---------- */
+#overlay{position:fixed;inset:0;z-index:60;background:rgba(20,22,19,.5);display:none}
+#card{
+  position:fixed;z-index:70;left:50%;top:50%;transform:translate(-50%,-50%);
+  width:min(560px,calc(100vw - 28px));max-height:min(84vh,720px);overflow-y:auto;display:none;
+  background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);
+  padding:22px 24px 20px
+}
+#card .top{display:flex;gap:14px;align-items:flex-start}
+#card .top img,#card .top .ini{width:56px;height:56px;object-fit:contain;border-radius:8px;background:#fff;flex:0 0 auto}
+#card .top .ini{display:flex;align-items:center;justify-content:center;font-weight:800;font-size:19px;color:var(--bg);background:var(--olive)}
+#card h2{margin:0 0 2px;font-size:19px;font-weight:800;line-height:1.35}
+#card .meta{font-size:12px;color:var(--muted)}
+#card .chips{display:flex;flex-wrap:wrap;gap:5px;margin:12px 0 2px}
+.k{font-size:11.5px;padding:2px 10px;border-radius:999px;background:var(--surface2);color:var(--ink)}
+.k.role{background:var(--olive);color:var(--bg)}
+.k.app{border:1px solid var(--olive);color:var(--olive);background:transparent}
+.k.warn{background:var(--warn-bg);color:var(--warn-ink);font-weight:600}
+#card p.prof{margin:12px 0;font-size:13.5px;color:var(--ink)}
+#card .facts{display:grid;grid-template-columns:auto 1fr;gap:3px 14px;font-size:12.5px;margin:10px 0}
+#card .facts dt{color:var(--muted)}
+#card .facts dd{margin:0}
+#card .links{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+#card .links a{
+  text-decoration:none;font-size:13px;font-weight:600;padding:7px 14px;border-radius:7px;
+  background:var(--olive);color:var(--bg)
+}
+#card .links a.ghost{background:transparent;border:1px solid var(--line);color:var(--ink)}
+#card .close{position:absolute;right:10px;top:8px;font-size:20px;color:var(--muted);padding:4px 8px}
+#card .src{margin-top:12px;font-size:11px;color:var(--muted)}
+
+/* ---------- about ---------- */
+.about{max-width:720px;margin:0 auto;padding:34px 20px 60px}
+.about h2{font-size:26px;font-weight:800;margin:0 0 4px}
+.about .eyebrow{font-size:11px;letter-spacing:.22em;color:var(--copper);text-transform:uppercase}
+.about h3{font-size:17px;margin:30px 0 8px}
+.about p{margin:0 0 12px}
+.placeholder{
+  border:1.5px dashed var(--line);border-radius:8px;padding:14px 16px;color:var(--muted);
+  font-size:13.5px;background:var(--surface)
+}
+.about ul{padding-left:20px}
+.about li{margin:4px 0}
+.about blockquote{
+  margin:14px 0;padding:14px 18px;border-left:3px solid var(--copper);
+  background:var(--surface);border-radius:0 8px 8px 0;font-size:14px;color:var(--ink)
+}
+.about blockquote p{margin:0 0 10px}
+.about blockquote p:last-child{margin-bottom:0}
+.sociallinks{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0 4px}
+.sociallinks a{
+  text-decoration:none;font-size:13px;font-weight:600;padding:7px 18px;border-radius:999px;
+  border:1.5px solid var(--olive);color:var(--olive)
+}
+.sociallinks a:hover{background:var(--olive);color:var(--bg)}
+/* ---------- policy timeline ---------- */
+.policy-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media (max-width:880px){.policy-grid{grid-template-columns:1fr}}
+.policy-col{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:18px 20px}
+.policy-title{margin:0 0 2px;font-size:17px;font-weight:800}
+.policy-sub{margin:0 0 14px;font-size:12.5px;color:var(--muted)}
+.tl{position:relative;padding-left:18px}
+.tl::before{content:'';position:absolute;left:4px;top:6px;bottom:6px;width:2px;background:var(--line)}
+.tl-item{position:relative;padding:0 0 18px 12px}
+.tl-item::before{content:'';position:absolute;left:-18px;top:5px;width:10px;height:10px;border-radius:50%;
+  background:var(--olive);border:2px solid var(--bg);box-sizing:border-box}
+.tl-item.now::before{background:var(--copper)}
+.tl-date{font-size:11.5px;color:var(--copper);font-family:ui-monospace,"SF Mono",Menlo,monospace;letter-spacing:.04em}
+.tl-org{display:inline-block;font-size:10.5px;padding:1px 8px;border-radius:999px;background:var(--surface2);color:var(--muted);margin-left:6px;vertical-align:1px}
+.tl-t{margin:3px 0 3px;font-size:14px;font-weight:700;line-height:1.45}
+.tl-s{margin:0 0 5px;font-size:12.5px;color:var(--muted);line-height:1.6}
+.tl-src{font-size:11.5px}
+.tl-src a{color:var(--olive);text-decoration:none}
+.tl-src a:hover{color:var(--copper);text-decoration:underline}
+
+footer{border-top:1px solid var(--line);padding:18px 20px 30px;text-align:center;font-size:12px;color:var(--muted)}
+footer p{max-width:760px;margin:4px auto}
+
+.stats{display:flex;gap:26px;margin:2px 0 12px;flex-wrap:wrap}
+.stat{display:flex;flex-direction:column}
+.stat b{font-size:21px;font-weight:800;font-family:ui-monospace,"SF Mono",Menlo,monospace;color:var(--olive-strong)}
+.stat span{font-size:11px;color:var(--muted);letter-spacing:.1em}
+
+@media (max-width:640px){
+  .hd{padding:8px 12px;gap:8px}
+  .brand h1{font-size:16px}
+  nav{width:100%;margin-left:0}
+  nav button{flex:1;padding:6px 4px;font-size:13px}
+  .viewwrap{padding:10px 10px 30px}
+  #mapsvg{height:calc(100vh - 300px);min-height:360px}
+  #card{padding:18px 16px 16px}
+}
+@media (prefers-reduced-motion: no-preference){
+  .tile{transition:transform .12s ease,border-color .12s ease}
+  nav button,.chip{transition:background .12s ease,color .12s ease}
+}
+</style>
+
+<header>
+  <div class="hd">
+    <div class="brand">
+      <span class="eyebrow mono">Taiwan Drone Industry Map</span>
+      <h1>全台無人機產業地圖</h1>
+    </div>
+    <nav aria-label="主選單">
+      <button data-view="map" class="on">地圖</button>
+      <button data-view="chain">產業鏈</button>
+      <button data-view="policy">重要政策</button>
+      <button data-view="about">起心動念</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- ============ 地圖 ============ -->
+  <section id="view-map" class="viewwrap">
+    <div class="stats" id="stats"></div>
+    <div class="filters">
+      <div class="filterrow"><span class="lbl mono">角色</span><div id="rolechips" class="filterrow" style="overflow:visible;padding:0"></div></div>
+      <div class="filterrow"><span class="lbl mono">應用</span><div id="appchips" class="filterrow" style="overflow:visible;padding:0"></div></div>
+      <div class="filterrow">
+        <input id="search" class="searchbox" type="search" placeholder="搜尋公司名稱⋯" aria-label="搜尋公司">
+      </div>
+    </div>
+    <div class="map-shell">
+      <svg id="mapsvg" viewBox="0 0 740 900" role="img" aria-label="台灣地圖與無人機公司分布">
+        <g id="zoomg">
+          <g id="counties"></g>
+          <g id="pins"></g>
+        </g>
+      </svg>
+      <div class="maptools">
+        <button id="zin" aria-label="放大">＋</button>
+        <button id="zout" aria-label="縮小">－</button>
+        <button id="zfit" aria-label="重設檢視" style="font-size:13px">⌂</button>
+      </div>
+      <div class="mapcount mono" id="mapcount"></div>
+    </div>
+  </section>
+
+  <!-- ============ 產業鏈 ============ -->
+  <section id="view-chain" class="viewwrap" hidden>
+    <div class="chain-head">
+      <h2>產業鏈全景</h2>
+      <div class="seg" role="tablist">
+        <button id="segRole" class="on">依角色</button>
+        <button id="segApp">依應用</button>
+        <button id="segRegion">依地區</button>
+      </div>
+    </div>
+    <p class="chain-note">一家公司可能同時扮演多個角色，會重複出現在對應分區。點擊任一公司可查看介紹、官網與徵才連結。</p>
+    <div id="chainbody"></div>
+  </section>
+
+  <!-- ============ 重要政策 ============ -->
+  <section id="view-policy" class="viewwrap" hidden>
+    <div class="chain-head">
+      <h2>重要政策</h2>
+    </div>
+    <p class="chain-note" style="max-width:860px">這一頁想回答一個問題：台灣政府此刻怎麼看無人機。答案要沿兩條線讀。一條是<b>國防軍購</b>：從特別條例到特別預算，國家把無人載具寫進不對稱戰力的主幹論述，這是需求的源頭。另一條是<b>產業嘉惠措施</b>：統籌型計畫、資安檢測、國際認證與拓銷，是行政部門沿著這個論述長出來的分工與回應。兩欄並排讀，可以看見論述轉向與產業動員如何互相呼應。</p>
+    <p class="chain-note"><span class="mono" id="policy-updated"></span></p>
+    <div class="policy-grid">
+      <div class="policy-col">
+        <h3 class="policy-title">國防軍購</h3>
+        <p class="policy-sub">主幹：不對稱戰力的論述轉向，從特別條例草案到三讀的採購法制</p>
+        <div class="tl" id="tl-defense"></div>
+      </div>
+      <div class="policy-col">
+        <h3 class="policy-title">產業嘉惠措施</h3>
+        <p class="policy-sub">分工：沿著國防需求長出的產業動員，計畫、檢測、認證與拓銷</p>
+        <div class="tl" id="tl-industry"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 起心動念 ============ -->
+  <section id="view-about" hidden>
+    <div class="about">
+      <span class="eyebrow mono">Why this map exists</span>
+      <h2>起心動念</h2>
+      <p>這張地圖的起點，是 Fox 大大的一集節目。</p>
+      <p>那一集在講台灣的無人機。三年多前，政府編了預算想買上千架無人機做 AI 群飛，能真正用來買飛機的錢是六千四百萬，最後只買到一百多架；而同一時間的烏克蘭戰場，一個禮拜就消耗掉一千架以上。貴跟慢的根源是同一件事：為了避開紅色供應鏈，中國晶片不能用，同樣功能的圖傳晶片，別人一顆一萬元，我們買歐洲貨要十萬。</p>
+      <p>節目裡的陳炳煇教授說，想把無人機的價格壓到十分之一，馬達和機殼都省不出什麼，唯一的路是晶片和感測器自己做，而全世界大概只有台灣做得到。另一頭，出口其實已經先動起來了，台灣的整機正一批批賣進波蘭和捷克；Shield AI 把辦公室開進台北 101，Anduril 也來台設點。最缺的反而是人。</p>
+      <p>完整對談在這裡：<a href="https://youtu.be/OKbkiESy1QE" target="_blank" rel="noopener">youtu.be/OKbkiESy1QE</a></p>
+      <p>看完只覺得台灣正在冉冉上升，也想知道這條供應鏈的流程、players 都在哪裡，於是有了這張地圖。</p>
+      <h3>想說的話</h3>
+      <p>我是 Dana，人文社會科學出身，過去幾年一直在科技與公共事務的交界工作：從區塊鏈生態、數位身分，到硬體安全與國防韌性科技。我不是工程師，也不是無人機從業者。我的日常，是把複雜的技術翻譯成政府、產業與一般人能理解、能行動的語言。</p>
+      <p>做這張地圖的原因很簡單：台灣的無人機產業被談論得很多，卻很難被完整地看見。名單散落在協會名錄、新聞稿、標案公告與徵才頁面之間；想認識這個產業的人，無論是求職者、研究者、政策幕僚還是媒體，常常找不到一個起點。所以我把這些公開資訊撿起來、核對，放上同一張地圖。</p>
+      <p>這是一個小小貢獻。它不代表任何公司或機構的立場，也一定有錯漏，歡迎指正，讓它變得更好。</p>
+      <h3>收錄來源</h3>
+      <ul>
+        <li>台灣國防產業發展協會（TW-DIDA）會員名錄</li>
+        <li>亞洲無人機創新產業園區廠商協進會（TNDIA）廠商名單</li>
+        <li>2019 台灣無人機產業群聚地圖（收錄前逐家核對經濟部商工登記營業狀態）</li>
+        <li>104 人力銀行公開徵才與公司資料</li>
+        <li>公開新聞報導與各公司官方網站</li>
+      </ul>
+      <h3>收錄原則</h3>
+      <ul>
+        <li>收錄在台灣有登記營運、業務與無人機產業鏈相關的公司，以及投入此領域的法人與學研單位、在台設點的國際業者。</li>
+        <li>已解散、廢止或歇業的公司不收錄；代理中國系產品的公司會特別標註。</li>
+        <li>分類為編者依公開資訊之判讀，歡迎指正。</li>
+      </ul>
+      <h3>聯絡我</h3>
+      <div class="sociallinks">
+        <a href="https://dana-blog.zeabur.app" target="_blank" rel="noopener">Blog</a>
+        <a href="https://www.linkedin.com/in/preedananliu/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://6uuuci.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://github.com/Danadadana" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>資料更新：2026 年 7 月 · 公司資訊與商標版權屬各公司所有 · 本站為公開資訊之非商業彙整，如需更正或補充歡迎來信指正。</p>
+</footer>
+
+<div id="overlay"></div>
+<div id="card" role="dialog" aria-modal="true"></div>
+<div id="tooltip"></div>
+
+<script>
+/* eslint-disable */
+const DATA = /*__DATA__*/[];
+const GEO = /*__GEO__*/{};
+const LOGOS = /*__LOGOS__*/{};
+const POLICY = /*__POLICY__*/{"updated":"","industry":[],"defense":[]};
+
+const ROLES = ["整機製造","半導體晶片","零組件與材料","光學酬載","飛控導航","通訊資安","指揮管理系統","反制C-UAS","檢測驗證與訓練","服務與營運"];
+const SPECIALS = ["法人與學研","在台外商"];
+const REGIONS = ["台北市","新北市","基隆市","桃園市","新竹市","新竹縣","苗栗縣","台中市","彰化縣","南投縣","雲林縣","嘉義市","嘉義縣","台南市","高雄市","屏東縣","宜蘭縣","花蓮縣","台東縣","澎湖縣","金門縣","連江縣"];
+const APPS = ["國防軍事","基礎建設巡檢","農業","物流運輸","公共安全與救災","測繪空拍","能源"];
+const ROLE_DESC = {
+  "整機製造":"消費、商用與軍用無人機的整機設計、製造與系統整合",
+  "半導體晶片":"飛控處理器、微控制器、影像與射頻晶片",
+  "零組件與材料":"馬達、電池、螺旋槳、機體結構、複合材料、精密加工與電路板",
+  "光學酬載":"相機模組、光達、熱像儀、雲台與影像感測",
+  "飛控導航":"飛控系統、慣性導航、衛星定位與航電",
+  "通訊資安":"資料鏈、圖傳、天線射頻、衛星通訊與加密資安",
+  "指揮管理系統":"地面站、機隊管理、UTM 與影像辨識平台",
+  "反制C-UAS":"無人機偵測、干擾與攔截系統",
+  "檢測驗證與訓練":"檢測認證、試驗場域、操作訓練與考照",
+  "服務與營運":"空拍測繪、巡檢、農噴、物流與展演等應用服務",
+  "法人與學研":"投入無人機研發與人才培育的法人機構與大專校院",
+  "在台外商":"在台灣設立據點的國際無人機與國防科技業者",
+};
+
+/* ---------- helpers ---------- */
+const $ = (s)=>document.querySelector(s);
+const shortName = (n)=>n.replace(/股份有限公司|有限公司/g,'').replace(/^臺灣|^台灣/,m=>m).trim();
+const esc = (s)=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+/* ---------- state ---------- */
+let view='map', chainMode='role';
+let fRole=null, fApp=null, fText='';
+
+function filtered(){
+  return DATA.filter(c=>{
+    if(fRole){
+      const rr = c.sp ? [c.sp] : c.r;
+      if(!rr.includes(fRole)) return false;
+    }
+    if(fApp && !(c.a||[]).includes(fApp)) return false;
+    if(fText && !(c.n.includes(fText) || shortName(c.n).includes(fText))) return false;
+    return true;
+  });
+}
+
+/* ---------- projection ---------- */
+const COSLAT = Math.cos(23.7*Math.PI/180), S = 195;
+const px = (lon)=> (lon-118.0)*S*COSLAT;
+const py = (lat)=> (26.45-lat)*S;
+
+/* ---------- base map ---------- */
+function drawCounties(){
+  const g = $('#counties'); let html='';
+  for(const f of GEO.features){
+    const geom = f.geometry; if(!geom) continue;
+    const polys = geom.type==='Polygon' ? [geom.coordinates] : geom.coordinates;
+    let d='';
+    for(const poly of polys){
+      for(const ring of poly){
+        d += 'M' + ring.map(pt=>px(pt[0]).toFixed(1)+' '+py(pt[1]).toFixed(1)).join('L') + 'Z';
+      }
+    }
+    html += `<path class="county" d="${d}"><title>${esc(f.properties.name||'')}</title></path>`;
+  }
+  g.innerHTML = html;
+}
+
+/* ---------- zoom / pan ---------- */
+const zoomg = $('#zoomg'), svg = $('#mapsvg');
+const HOME={k:1.3,tx:-332,ty:-272};
+let k=HOME.k, tx=HOME.tx, ty=HOME.ty;
+function applyT(){ zoomg.setAttribute('transform',`translate(${tx} ${ty}) scale(${k})`); renderPins(); }
+function svgPoint(evt){
+  const r = svg.getBoundingClientRect();
+  const vb = svg.viewBox.baseVal;
+  const sx = vb.width/r.width, sy = vb.height/r.height, s = Math.max(sx,sy);
+  // preserveAspectRatio default centers content
+  const ox = (r.width - vb.width/s)/2, oy = (r.height - vb.height/s)/2;
+  return { x:(evt.clientX-r.left-ox)*s, y:(evt.clientY-r.top-oy)*s };
+}
+function zoomAt(pt, factor){
+  const nk = Math.min(60, Math.max(0.8, k*factor));
+  const f = nk/k;
+  tx = pt.x - (pt.x - tx)*f;
+  ty = pt.y - (pt.y - ty)*f;
+  k = nk; applyT();
+}
+svg.addEventListener('wheel', e=>{ e.preventDefault(); zoomAt(svgPoint(e), e.deltaY<0?1.25:0.8); }, {passive:false});
+
+const pointers = new Map();
+let lastMid=null, lastDist=0, moved=false;
+svg.addEventListener('pointerdown', e=>{
+  svg.setPointerCapture(e.pointerId);
+  pointers.set(e.pointerId, e); moved=false;
+  if(pointers.size===2){
+    const [a,b]=[...pointers.values()];
+    lastDist=Math.hypot(a.clientX-b.clientX,a.clientY-b.clientY);
+  }
+  svg.classList.add('dragging');
+});
+svg.addEventListener('pointermove', e=>{
+  if(!pointers.has(e.pointerId)) return;
+  const prev = pointers.get(e.pointerId); pointers.set(e.pointerId, e);
+  if(pointers.size===1){
+    const r = svg.getBoundingClientRect(); const vb=svg.viewBox.baseVal;
+    const s = Math.max(vb.width/r.width, vb.height/r.height);
+    const dx=(e.clientX-prev.clientX)*s, dy=(e.clientY-prev.clientY)*s;
+    if(Math.abs(dx)+Math.abs(dy)>1) moved=true;
+    tx+=dx; ty+=dy; applyT();
+  }else if(pointers.size===2){
+    const [a,b]=[...pointers.values()];
+    const dist=Math.hypot(a.clientX-b.clientX,a.clientY-b.clientY);
+    const mid={clientX:(a.clientX+b.clientX)/2, clientY:(a.clientY+b.clientY)/2};
+    if(lastDist>0) zoomAt(svgPoint(mid), dist/lastDist);
+    lastDist=dist; moved=true;
+  }
+});
+const endPtr = e=>{ pointers.delete(e.pointerId); lastDist=0; if(pointers.size===0) svg.classList.remove('dragging'); };
+svg.addEventListener('pointerup', endPtr); svg.addEventListener('pointercancel', endPtr);
+
+$('#zin').onclick=()=>zoomAt({x:370,y:450},1.5);
+$('#zout').onclick=()=>zoomAt({x:370,y:450},0.67);
+$('#zfit').onclick=()=>{k=HOME.k;tx=HOME.tx;ty=HOME.ty;applyT();};
+
+/* ---------- pins with grid clustering ---------- */
+const tooltip = $('#tooltip');
+function renderPins(){
+  const g = $('#pins');
+  const list = filtered().filter(c=>c.lat);
+  $('#mapcount').textContent = `顯示 ${list.length} / ${DATA.length} 家`;
+  const cell = 46/k;
+  const grid = new Map();
+  for(const c of list){
+    const x=px(c.lng), y=py(c.lat);
+    const key = Math.round(x/cell)+'_'+Math.round(y/cell);
+    (grid.get(key) || grid.set(key,[]).get(key)).push({c,x,y});
+  }
+  let html='';
+  for(const items of grid.values()){
+    if(items.length>2 && k<40){
+      const cx=items.reduce((s,i)=>s+i.x,0)/items.length;
+      const cy=items.reduce((s,i)=>s+i.y,0)/items.length;
+      const r=(11+Math.min(9,items.length))/k;
+      html+=`<circle class="cluster" cx="${cx}" cy="${cy}" r="${r}" data-cl="${items.map(i=>i.c.i).join(',')}"></circle>
+             <text class="cluster-label" x="${cx}" y="${cy}" dy="${4.5/k}" font-size="${12/k}">${items.length}</text>`;
+    }else{
+      for(const it of items){
+        html+=`<circle class="pin" cx="${it.x}" cy="${it.y}" r="${3.8/k}" stroke-width="${1.1/k}" data-i="${it.c.i}"></circle>
+               <circle class="pinhit" cx="${it.x}" cy="${it.y}" r="${10/k}" data-i="${it.c.i}"></circle>`;
+      }
+    }
+  }
+  g.innerHTML=html;
+}
+svg.addEventListener('click', e=>{
+  if(moved) return;
+  const el = document.elementFromPoint(e.clientX, e.clientY);
+  const t = (el && el.dataset && (el.dataset.i || el.dataset.cl)) ? el : e.target;
+  if(!t || !t.dataset) return;
+  if(t.dataset.i) openCard(+t.dataset.i);
+  else if(t.dataset.cl){
+    const ids=t.dataset.cl.split(',').map(Number);
+    const cx=+t.getAttribute('cx'), cy=+t.getAttribute('cy');
+    // zoom into cluster
+    const vb=svg.viewBox.baseVal;
+    zoomAt({x:cx*k+tx, y:cy*k+ty}, 2.3);
+  }
+});
+$('#pins').addEventListener('pointermove', e=>{
+  const t=e.target;
+  if(t.dataset && t.dataset.i){
+    tooltip.style.display='block';
+    tooltip.textContent = shortName(DATA[+t.dataset.i].n);
+    tooltip.style.left=(e.clientX+12)+'px'; tooltip.style.top=(e.clientY+10)+'px';
+  }else tooltip.style.display='none';
+});
+$('#pins').addEventListener('pointerleave', ()=>tooltip.style.display='none');
+
+/* ---------- filter chips ---------- */
+function chiprow(el, values, get, set){
+  el.innerHTML = `<button class="chip on" data-v="">全部</button>` +
+    values.map(v=>`<button class="chip" data-v="${esc(v)}">${esc(v)}</button>`).join('');
+  el.addEventListener('click', e=>{
+    const b=e.target.closest('.chip'); if(!b) return;
+    el.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on', c===b));
+    set(b.dataset.v || null);
+    renderPins(); renderChain();
+  });
+}
+chiprow($('#rolechips'), [...ROLES, ...SPECIALS], ()=>fRole, v=>fRole=v);
+chiprow($('#appchips'), APPS, ()=>fApp, v=>fApp=v);
+$('#search').addEventListener('input', e=>{ fText=e.target.value.trim(); renderPins(); renderChain(); });
+
+/* ---------- stats ---------- */
+function renderStats(){
+  const total=DATA.length;
+  $('#stats').innerHTML = `
+    <div class="stat"><b>${total}</b><span>收錄公司與單位</span></div>
+    <div class="stat"><b>${ROLES.length}</b><span>產業鏈角色</span></div>
+    <div class="stat"><b>${APPS.length}</b><span>應用領域</span></div>`;
+}
+
+/* ---------- chain ---------- */
+function tileHTML(c){
+  const lg = c.lg && LOGOS[c.lg];
+  const sn = shortName(c.n);
+  const vis = lg ? `<img src="${lg}" alt="" loading="lazy">` : `<span class="ini">${esc(sn.slice(0,2))}</span>`;
+  return `<button class="tile" data-i="${c.i}" title="${esc(c.n)}">${vis}<span class="nm">${esc(sn)}</span></button>`;
+}
+function renderChain(){
+  const body=$('#chainbody');
+  const list=filtered();
+  let html='';
+  if(chainMode==='role'){
+    for(const role of [...ROLES, ...SPECIALS]){
+      const items = list.filter(c=> c.sp ? c.sp===role : c.r.includes(role));
+      if(!items.length) continue;
+      html+=`<div class="rolebox"><h3>${role}<span class="cnt">${items.length}</span></h3>
+        <p class="desc">${ROLE_DESC[role]||''}</p>
+        <div class="tiles">${items.map(tileHTML).join('')}</div></div>`;
+    }
+  }else if(chainMode==='region'){
+    for(const rg of REGIONS){
+      const items = list.filter(c=>c.rg===rg);
+      if(!items.length) continue;
+      html+=`<div class="rolebox"><h3>${rg}<span class="cnt">${items.length}</span></h3>
+        <div class="tiles">${items.map(tileHTML).join('')}</div></div>`;
+    }
+    const none = list.filter(c=>!c.rg);
+    if(none.length){
+      html+=`<div class="rolebox"><h3>地址暫未提供<span class="cnt">${none.length}</span></h3>
+        <div class="tiles">${none.map(tileHTML).join('')}</div></div>`;
+    }
+  }else{
+    for(const app of APPS){
+      const items = list.filter(c=>(c.a||[]).includes(app));
+      if(!items.length) continue;
+      html+=`<div class="rolebox"><h3>${app}<span class="cnt">${items.length}</span></h3>
+        <div class="tiles">${items.map(tileHTML).join('')}</div></div>`;
+    }
+    const none = list.filter(c=>!(c.a||[]).length);
+    if(none.length){
+      html+=`<div class="rolebox"><h3>跨應用供應鏈<span class="cnt">${none.length}</span></h3>
+        <p class="desc">晶片、零組件、材料與設備等通用供應鏈廠商——服務所有應用領域，不限定單一場景</p>
+        <div class="tiles">${none.map(tileHTML).join('')}</div></div>`;
+    }
+  }
+  body.innerHTML = html || '<p class="chain-note">沒有符合篩選條件的公司。</p>';
+}
+$('#chainbody').addEventListener('click', e=>{
+  const t=e.target.closest('.tile'); if(t) openCard(+t.dataset.i);
+});
+function setSeg(mode, btn){
+  chainMode=mode;
+  for(const b of ['#segRole','#segApp','#segRegion']) $(b).classList.toggle('on', b===btn);
+  renderChain();
+}
+$('#segRole').onclick=()=>setSeg('role','#segRole');
+$('#segApp').onclick=()=>setSeg('app','#segApp');
+$('#segRegion').onclick=()=>setSeg('region','#segRegion');
+
+/* ---------- card ---------- */
+function openCard(i){
+  const c=DATA[i];
+  const lg=c.lg && LOGOS[c.lg];
+  const sn=shortName(c.n);
+  const vis= lg?`<img src="${lg}" alt="">`:`<span class="ini">${esc(sn.slice(0,2))}</span>`;
+  const roleChips=(c.sp?[c.sp]:c.r).map(r=>`<span class="k role">${esc(r)}</span>`).join('');
+  const appChips=(c.a||[]).map(a=>`<span class="k app">${esc(a)}</span>`).join('');
+  const flagChips=(c.f||[]).map(f=>`<span class="k ${f==='代理中系產品'?'warn':''}">${esc(f)}</span>`).join('');
+  const facts=[];
+  facts.push(['地址', c.addr ? esc(c.addr) : '暫未提供']);
+  facts.push(['官網', c.w ? `<a href="${esc(c.w)}" target="_blank" rel="noopener">${esc(c.w.replace(/^https?:\/\//,'').replace(/\/$/,''))}</a>` : '暫未提供']);
+  facts.push(['徵才', c.u ? (c.j ? `104 開缺中，共 ${c.j} 筆職缺` : '104 有公司頁，目前無開放職缺') : '無 104 公司頁，可用下方按鈕搜尋']);
+  if(c.cap) facts.push(['資本額', esc(c.cap)]);
+  if(c.emp) facts.push(['員工數', esc(c.emp)]);
+  const srcNames={curated:'產業盤點', pdf2019:'2019 群聚地圖', '104':'104 人力銀行'};
+  const jobUrl = c.u || ('https://www.104.com.tw/jobs/search/?keyword='+encodeURIComponent(sn));
+  const jobLabel = c.u ? `104 徵才${c.j?`（${c.j} 職缺）`:''}` : '在 104 搜尋職缺';
+  $('#card').innerHTML=`
+    <button class="close" aria-label="關閉">✕</button>
+    <div class="top">${vis}<div><h2>${esc(c.n)}</h2><div class="meta">${esc(c.ind||'')}</div></div></div>
+    <div class="chips">${roleChips}${appChips}${flagChips}</div>
+    ${c.p?`<p class="prof">${esc(c.p)}</p>`:''}
+    ${facts.length?`<dl class="facts">${facts.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`:''}
+    <div class="links">
+      ${c.w?`<a href="${esc(c.w)}" target="_blank" rel="noopener">官方網站 ↗</a>`:''}
+      <a class="ghost" href="${jobUrl}" target="_blank" rel="noopener">${jobLabel} ↗</a>
+    </div>
+    `;
+  $('#overlay').style.display='block';
+  $('#card').style.display='block';
+  $('#card .close').onclick=closeCard;
+}
+function closeCard(){ $('#overlay').style.display='none'; $('#card').style.display='none'; }
+$('#overlay').onclick=closeCard;
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeCard(); });
+
+/* ---------- policy ---------- */
+function renderPolicy(){
+  $('#policy-updated').textContent = `資料更新至 ${POLICY.updated}`;
+  const srcName = (u)=>{ try{ return new URL(u).hostname.replace('www.',''); }catch(e){ return '來源'; } };
+  for(const key of ['industry','defense']){
+    const el = $('#tl-'+key);
+    const items = [...POLICY[key]].reverse(); // 最新在上
+    el.innerHTML = items.map(it=>`
+      <div class="tl-item${it.d==='進行中'?' now':''}">
+        <span class="tl-date">${esc(it.d)}</span><span class="tl-org">${esc(it.org)}</span>
+        <div class="tl-t">${esc(it.t)}</div>
+        <p class="tl-s">${esc(it.s)}</p>
+        <div class="tl-src"><a href="${esc(it.u)}" target="_blank" rel="noopener">原始文件（${esc(srcName(it.u))}）↗</a></div>
+      </div>`).join('');
+  }
+}
+
+/* ---------- views ---------- */
+document.querySelectorAll('nav button').forEach(b=>{
+  b.onclick=()=>{
+    view=b.dataset.view;
+    document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
+    $('#view-map').hidden = view!=='map';
+    $('#view-chain').hidden = view!=='chain';
+    $('#view-policy').hidden = view!=='policy';
+    $('#view-about').hidden = view!=='about';
+    if(view==='chain') renderChain();
+  };
+});
+
+/* ---------- init ---------- */
+drawCounties();
+renderStats();
+applyT();
+renderChain();
+renderPolicy();
+</script>

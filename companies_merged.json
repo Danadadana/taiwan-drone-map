@@ -1,0 +1,8182 @@
+{
+ "漢翔航空工業": {
+  "nameZh": "漢翔航空工業股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺中市西屯區西平里24鄰漢翔路1號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aidc.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣航太工業龍頭與國機國造核心，經國號戰機、勇鷹高教機的製造者。近年領軍「台灣卓越無人機海外商機聯盟」擔任主席，整合逾260家會員廠商推動軍用商規認證與海外拓銷，是台灣無人機國家隊的系統整合中樞。",
+  "logo": "a_漢翔航空工業",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "中光電智能機器人": {
+  "nameZh": "中光電智能機器人股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事",
+   "公共安全與救災",
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "新竹市力行路11號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.coretronic-robotics.com/tw/index",
+  "url104": "https://www.104.com.tw/company/1a2x6bmfyr",
+  "jobCount": 50,
+  "profile": "中強光電集團子公司，軍用商規無人機首波得標主力，監偵型與微型無人機交機量居前。產品線涵蓋巡檢、安防智能無人機系統，並積極打入美國警消市場，取得多項國際認證。",
+  "logo": "1a2x6bmfyr",
+  "capital": "3億3000萬元",
+  "empNo": "292人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "雷虎科技": {
+  "nameZh": "雷虎科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺中市西屯區協和里工業區六路7號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.tti.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "從遙控模型起家的老牌廠商，轉型投入大型軍用無人直升機（T-400）、FPV攻擊無人機與無人艇。與美國Shield AI合作導入Hivemind自主軟體，並取得軍用商規標案，是上市無人機概念股的指標公司。",
+  "logo": "a_雷虎科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "經緯航太科技": {
+  "nameZh": "經緯航太科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "農業",
+   "測繪空拍",
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台南市東區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.geosat.com.tw/TW/index.aspx",
+  "url104": "https://www.104.com.tw/company/cj9agls",
+  "jobCount": 0,
+  "profile": "台灣測繪與農業無人機先驅，由羅正方博士創辦，緯創為策略股東。從航遙測服務走向定翼與旋翼無人機整機研製，產品外銷東南亞、中東，並參與軍用商規標案，深耕智慧農業與國土監測。",
+  "logo": "cj9agls",
+  "capital": "20億",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "長榮航太科技": {
+  "nameZh": "長榮航太科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市大園區航站南路6號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.egat.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "長榮集團旗下航太公司，全球知名的飛機維修（MRO）大廠。近年取得艦載監偵型無人機標案，將航空級製造與適航驗證能量帶入無人機領域，為大聯盟協同主席之一。",
+  "logo": "a_長榮航太科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "智飛科技": {
+  "nameZh": "智飛科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市松山區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.taiwan-uav.com",
+  "url104": "https://www.104.com.tw/company/cw4hdo8",
+  "jobCount": 0,
+  "profile": "軍用商規無人機首波得標廠商之一，專注目獲型與攻擊型無人機。創辦團隊出身航太與模型產業，機體研製與飛控整合能量完整，進駐嘉義亞創中心。",
+  "logo": "cw4hdo8",
+  "capital": "5億3000萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "神耀科技": {
+  "nameZh": "神耀科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市內湖區堤頂大道2段187號6樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "神通集團旗下無人機公司，軍用商規標案得標廠商，TEDIBOA大聯盟協同主席之一。倚靠集團的資訊系統整合實力發展監偵無人機與地面指管系統，進駐亞創中心。",
+  "logo": "a_神耀科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "碳基科技": {
+  "nameZh": "碳基科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市西屯區工業35路18號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.uaver.com",
+  "url104": "https://www.104.com.tw/company/d4rcrc0",
+  "jobCount": 10,
+  "profile": "以碳纖維複合材料機身起家的無人機廠，定翼與VTOL機型的機體設計製造能量突出，供應多家系統廠與研究機構，亦為軍用商規標案潛在供應鏈，進駐亞創中心。",
+  "logo": "d4rcrc0",
+  "capital": "3億6000萬元",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "亞洲航空": {
+  "nameZh": "亞洲航空股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺南市仁德區仁愛里機場路1050號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.airasia.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣歷史最悠久的飛機維修公司之一（1946年成立），TEDIBOA大聯盟協同主席。將軍機與商用機的MRO能量延伸至無人機維修、訓練與係統整備，進駐亞創中心。",
+  "logo": "a_亞洲航空",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "祥隆航太": {
+  "nameZh": "祥隆航太",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": null,
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員（DRAGONFLY UAS），投入無人飛行載具系統研製。",
+  "logo": "a_祥隆航太",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "新樂飛無人機": {
+  "nameZh": "新樂飛無人機股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "嘉義縣朴子市學府路二段52-16號",
+  "lat": null,
+  "lng": null,
+  "website": "https://7adrones.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6blkxk",
+  "jobCount": 6,
+  "profile": "嘉義朴子的無人機新創，主打全機台灣製造（MIT）的多旋翼機隊，投入農噴、教育與在地青年飛手培育，落實低碳供應鏈與偏鄉科技推廣。",
+  "logo": "1a2x6blkxk",
+  "capital": "5960萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "航見科技": {
+  "nameZh": "航見科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "農業",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台中市梧棲區梧南路20-8號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hjuavs.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bl3wo",
+  "jobCount": 6,
+  "profile": "嘉義在地無人機新創，投入定翼機與物流無人機研製，參與離島運輸實證，進駐亞創中心。",
+  "logo": "1a2x6bl3wo",
+  "capital": "4250萬元",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "佳世達": {
+  "nameZh": "佳世達科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "桃園市龜山區山鶯路157號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.qisda.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "明基佳世達集團旗艦，以「聯合艦隊」策略橫跨醫療、網通與智慧解決方案。以系統整合者角色參與無人機大聯盟並擔任協同主席，聚焦船艦與智慧場域的無人載具應用。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "台灣希望創新": {
+  "nameZh": "臺灣希望創新股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺南市歸仁區武東里高發二路360號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人機新創，投入多旋翼無人機研製與應用推廣，進駐嘉義亞創中心。",
+  "logo": "a_台灣希望創新",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "泰世科技": {
+  "nameZh": "泰世科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市八里區忠孝路168號(2樓)",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人飛行載具研發製造商（G-POWER），投入靶機與商用無人機系統，進駐嘉義亞創中心。",
+  "logo": "a_泰世科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "擎壤科技": {
+  "nameZh": "擎壤科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "台南市歸仁區歸仁十三路一段6號3樓321室",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.earthgen.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bkoe4",
+  "jobCount": 13,
+  "profile": "台灣本土農用無人機的代表新創，針對台灣田區特性自製植保機並提供代噴服務，推動智慧農業落地。",
+  "logo": "1a2x6bkoe4",
+  "capital": "1億",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "迅杰科技": {
+  "nameZh": "迅杰科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新竹市力行路21號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.ene.com.tw",
+  "url104": "https://www.104.com.tw/company/7kz4rqg",
+  "jobCount": 6,
+  "profile": "嵌入式控制器IC設計公司，鍵盤控制與嵌入式MCU產品線延伸至無人載具電控應用，為國防產業協會無人載具會員。",
+  "logo": "7kz4rqg",
+  "capital": "4億5312萬元",
+  "empNo": "80人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "奕微科半導體": {
+  "nameZh": "奕微科半導體科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新竹科學園區新竹市研新二路1號5樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "車電與載具半導體設計公司，投入無人載具電子控制晶片，為國防產業協會無人載具會員。",
+  "logo": "a_奕微科半導體",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "立積電子": {
+  "nameZh": "立積電子股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市內湖區堤頂大道二段407巷20弄1號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.richwave.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "WiFi射頻前端晶片（PA/LNA/Switch）主要供應商，射頻元件可用於無人機圖傳與遙控鏈路，為無人機通訊概念股。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "富田電機": {
+  "nameZh": "富田電機股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "苗栗縣銅鑼鄉銅科六路6號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.fukuta-motor.com.tw",
+  "url104": "https://www.104.com.tw/company/ah48g5k",
+  "jobCount": 18,
+  "profile": "台灣電動馬達名廠，曾為特斯拉初期馬達供應商。動力馬達與驅動系統技術延伸至無人載具動力，為國防產業協會無人載具會員。",
+  "logo": "ah48g5k",
+  "capital": "6億",
+  "empNo": "400人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電力機械器材製造修配業"
+ },
+ "泓記精密": {
+  "nameZh": "泓記精密股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市南屯區精科二路8號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.tricore.com.tw",
+  "url104": "https://www.104.com.tw/company/a531yx4",
+  "jobCount": 6,
+  "profile": "成立於1985年、總部位於台中精密機械園區的微型馬達與伺服系統廠，產品應用於智慧家居、車用、航空設備與遙控（RC）領域，並提供客製化動力方案，是無人機動力系統的供應商之一。",
+  "logo": "a531yx4",
+  "capital": "2億4000萬元",
+  "empNo": "200人",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "新普": {
+  "nameZh": "新普科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹縣湖口鄉湖口村八德路2段471號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.simplo.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球最大筆電電池模組廠，電池系統整合能力延伸至電動載具與無人機動力，為無人機電池概念股。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "加百裕": {
+  "nameZh": "加百裕工業股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市龍潭區烏林里39鄰工五路128號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.celxpert.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "電池模組大廠，鋰電池組設計製造應用於筆電、醫療與移動載具，切入無人機電池供應。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "長園科技實業": {
+  "nameZh": "長園科技實業股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "中部科學園區臺中市西屯區科雅東路9號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.changs.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "磷酸鋰鐵電池材料與電芯廠，高安全性電池技術應用於儲能與特種載具，為無人機電池材料供應商。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "千附精密": {
+  "nameZh": "千附精密股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "中部科學園區臺中市后里區后里里后科南路28號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chenfull.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "千附實業轉投資的精密製造公司，半導體設備與航太零組件雙引擎，供應航太級精密加工件，為國防產業協會會員。",
+  "logo": "a_千附精密",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "鉝太精密": {
+  "nameZh": "鉝太精密工業股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市五股區五工三路101號（4樓）",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "航太精密加工廠，國防產業發展協會航太會員，供應航太級精密零組件。",
+  "logo": "a_鉝太精密",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "敏鈞精密": {
+  "nameZh": "敏鈞精密股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市三峽區三樹路222巷33號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "航太精密加工廠，國防產業發展協會航太會員，供應航太結構與精密零組件。",
+  "logo": "a_敏鈞精密",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "敬鵬工業": {
+  "nameZh": "敬鵬工業股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "桃園市蘆竹區內厝里內厝街46號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.cmi.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球車用PCB領導廠，多層板與高可靠度電路板能量可支援航太與無人機電子系統。",
+  "logo": "a_敬鵬工業",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "柯力企業": {
+  "nameZh": "柯力企業股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市大安區敦化南路2段56號2樓之4",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員廠商，投入航太相關製造與供應。",
+  "logo": "a_柯力企業",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "科力航太": {
+  "nameZh": "科力航太股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "高雄市仁武區仁武區仁發五路1號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.kolead.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bixyz",
+  "jobCount": 3,
+  "profile": "國防產業發展協會航太會員（KOLEAD），投入航太零組件與無人載具相關製造。",
+  "logo": "1a2x6bixyz",
+  "capital": "1億",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "六俊電機儀具": {
+  "nameZh": "六俊電機儀具股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區文化里吉林路27之2號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.racing.com.tw",
+  "url104": "https://www.104.com.tw/company/a8d5hpc",
+  "jobCount": 22,
+  "profile": "電機儀具廠商，國防產業發展協會航太會員，供應航空儀電相關設備。",
+  "logo": "a8d5hpc",
+  "capital": "5億2000萬元",
+  "empNo": "138人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "雙穎科技": {
+  "nameZh": "雙穎科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市前鎮區新衙路286之5號4樓之2",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員廠商，投入航太與無人載具相關產品與服務。",
+  "logo": "a_雙穎科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "捷恆科技": {
+  "nameZh": "捷恆科技有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市西屯區福科路620巷18弄9號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員廠商（July Hurricane），投入無人載具相關產品。",
+  "logo": "a_捷恆科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "坤暐科技": {
+  "nameZh": "坤暐科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "嘉義縣太保市",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.kunway.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmjrz",
+  "jobCount": 0,
+  "profile": "At KunWay, our purpose is to secure environment and advance sustainability through transformative innovation. We Focus on the Drone product, AI System design and development to provide appropriate solutions for Drone app",
+  "logo": "1a2x6bmjrz",
+  "capital": "1500萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "自動控制相關業"
+ },
+ "應能科技": {
+  "nameZh": "應能科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市蘆竹區新興里中興二街40號(2樓)",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人機動力與零組件廠商，進駐嘉義亞創中心，投入動力系統相關產品。",
+  "logo": "a_應能科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "黑色方案": {
+  "nameZh": "黑色方案股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市大安區忠孝東路4段222號3樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "材料新創（2019年成立），開發厚度低於0.1mm的石墨烯電磁波吸收膜，抑制電子系統電磁干擾，可應用於無人機、GPS與航電的EMI防護。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "翔宇動力科技": {
+  "nameZh": "翔宇動力科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "農業"
+  ],
+  "flags": [],
+  "address": "台中市北屯區崇德路二段16號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.sky-dynamic.com/en_index.php",
+  "url104": "https://www.104.com.tw/company/1a2x6bnjvq",
+  "jobCount": 5,
+  "profile": "翔宇動力科技股份有限公司（Sky Dynamic）是一家立足台灣、面向全球的高階無人機系統（UAS）研發與製造公司，致力於將人工智慧（AI）與先進動力技術應用於各類飛行載具，打造高效、可靠的智慧空中解決方案。公司產品涵蓋巡檢、智慧農業、防務及科研等多元應用領域，具備 AI 視覺辨識與目標追蹤等智慧功能，能有效提升任務效率與作業安全性。",
+  "logo": "1a2x6bnjvq",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "亞洲光學": {
+  "nameZh": "亞洲光學股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺中市潭子區南二路22-3號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.asia-optical.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣光學代工大廠，鏡頭與光學模組橫跨相機、車載與軍用光學，具備無人機酬載光學元件供應能量。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "邑錡": {
+  "nameZh": "邑錡股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市內湖區瑞光路588號9樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.brinno.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "Brinno品牌縮時攝影相機的開發者，低功耗影像技術見長，並取得美軍規夜視鏡代理，切入國防影像市場。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "保勝光學": {
+  "nameZh": "保勝光學股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市潭子區建國路14號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "光學鏡片與鏡頭製造商，精密光學元件可應用於無人機影像酬載與觀測設備。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "聰泰科技": {
+  "nameZh": "聰泰科技開發股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市中正區忠孝東路2段88號18樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.yuan.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "影像擷取卡與視訊處理模組廠，產品用於無人機影像回傳、錄影與AI分析前端。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "藏識科技": {
+  "nameZh": "藏識科技有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "高雄市鼓山區文信路262號6樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.pilotgaea.com.tw   ",
+  "url104": "https://www.104.com.tw/company/61mbdx4",
+  "jobCount": 22,
+  "profile": "成立於2001年的3D空間資訊引擎公司（PilotGaea），以自主研發的3D GIS演算法為核心，結合AI、XR與無人機航測技術，投入數位孿生與數位國土應用。",
+  "logo": "61mbdx4",
+  "capital": "2500萬元",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "互宇向量": {
+  "nameZh": "互宇向量股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市蘆竹區安中街3巷10號",
+  "lat": null,
+  "lng": null,
+  "website": "https://aegiverse.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bm8un",
+  "jobCount": 10,
+  "profile": "慣性導航模組新創，自研IMU與導航演算法，為無人機、無人船提供無GPS環境下的定位導航能力。",
+  "logo": "1a2x6bm8un",
+  "capital": "1985萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "專門設計相關業"
+ },
+ "捷楊航電": {
+  "nameZh": "捷楊航電",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": null,
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "航空電子系統公司（Liscotech），國防產業發展協會航太會員，投入航電與飛控相關系統。",
+  "logo": "a_捷楊航電",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "凌威航太": {
+  "nameZh": "凌威航太科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹科學園區新竹縣寶山鄉工業東九路3-1號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員（Link Wave），投入航太通訊與無人載具相關技術。",
+  "logo": "a_凌威航太",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "星相科技": {
+  "nameZh": "星相科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新竹市東區",
+  "lat": null,
+  "lng": null,
+  "website": "https://phasetrum.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bna7x",
+  "jobCount": 3,
+  "profile": "國防產業發展協會航太會員（Phasetrum），投入射頻與相位陣列相關技術。",
+  "logo": "1a2x6bna7x",
+  "capital": "4000萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "星維科技": {
+  "nameZh": "星維科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市汐止區中興路64號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員（StarWay），投入航太與無人載具相關技術。",
+  "logo": "a_星維科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "連騰科技": {
+  "nameZh": "連騰科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市新店區北新路3段225號5樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "天線設計製造商（AWA），客製天線與無線模組應用於無人載具通訊鏈路，為國防產業協會無人載具會員。",
+  "logo": "a_連騰科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "台灣波律": {
+  "nameZh": "台灣波律股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市松山區民權東路三段178號14樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.maxwave.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "微波通訊元件與模組廠，天線與射頻產品應用於雷達、衛星與無人載具通訊，為國防產業協會會員。",
+  "logo": "a_台灣波律",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "昇達科": {
+  "nameZh": "昇達科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "基隆市七堵區六堵里工建路1號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.uig.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "微波與毫米波元件廠，濾波器、雙工器等產品打入低軌衛星與航太供應鏈，亦可用於無人機通訊酬載。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "合勤控": {
+  "nameZh": "合勤投資控股股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹市公道五路二段363號3樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "網通大廠合勤科技的控股母公司，網路通訊與資安產品線可支援無人機資料鏈路與地面網路建置。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "攸泰科技": {
+  "nameZh": "攸泰科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市內湖區陽光街300號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.uytech.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "神基集團分割的衛星通訊與強固運算公司，衛通終端與追蹤天線產品應用於海事、車載與無人載具通訊，為無人機概念股。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "台灣數位光訊": {
+  "nameZh": "台灣數位光訊科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市西屯區文心路二段201號6樓之6",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.topmso.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "中部有線電視與寬頻集團，投資無人機應用並進駐亞創中心，投入通訊與空拍應用服務。",
+  "logo": "a_台灣數位光訊",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "衛普科技": {
+  "nameZh": "衛普科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市大溪區員林路1段398號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防產業發展協會航太會員（WavePro），投入微波通訊相關產品。",
+  "logo": "a_衛普科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "艾斯特物聯": {
+  "nameZh": "艾斯特物聯科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市信義區永吉路225巷16弄19號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "物聯網技術公司，進駐亞創中心，投入無人機通訊與物聯網整合應用。",
+  "logo": "a_艾斯特物聯",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "鐳洋科技": {
+  "nameZh": "鐳洋科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市汐止區新台五路1段75號17樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.rapidtek.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "相列天線與衛星通訊技術廠，投入低軌衛星地面站與無人機通訊、反制天線技術，為衛星／無人機雙題材概念股。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "神通資訊科技": {
+  "nameZh": "神通資訊科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市內湖區堤頂大道二段187號10樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.mic.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "神通集團核心資訊公司，國防與公部門系統整合大廠，軍用商規無人機標案得標者之一，強項在指管系統與資訊整合。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "神基": {
+  "nameZh": "神基科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市汐止區環河里南陽街209號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.getacgroup.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "Getac品牌強固型筆電與平板的全球領導者，軍規運算終端廣泛用於國防與野外作業，是無人機地面站運算設備的代表供應商。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "融程電": {
+  "nameZh": "融程電訊股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市三重區中興南街18號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.winmate.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "強固型工業電腦廠，耐候運算平台應用於國防、軌道與戶外場域，可作為無人機地面控制站硬體。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "原資系統整合": {
+  "nameZh": "原資系統整合股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "農業",
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市烏日區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bls53",
+  "jobCount": 0,
+  "profile": "以無人機研發、設計與系統整合為主，結合高精度定位、感測儀器、可見光與非可見光影像判讀及AI影像辨識，應用於農業、工業與物流等領域，正朝全系統自製無人機發展。",
+  "logo": "a_原資系統整合",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他機械製造修配業"
+ },
+ "艾知科技": {
+  "nameZh": "艾知科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台北市內湖區石潭路67號8F",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aiseedtech.com",
+  "url104": "https://www.104.com.tw/company/1a2x6blppg",
+  "jobCount": 18,
+  "profile": "AiSeed pioneers high-performance drones with AI technology, ensuring reliability and top-tier quality for critical public safety and defense operations. Our solutions seamlessly integrate with drones and onboard Edge AI ",
+  "logo": "1a2x6blppg",
+  "capital": "1億8000萬元",
+  "empNo": "35人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "系統電": {
+  "nameZh": "系統電子工業股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市內湖區堤頂大道一段1號6樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "電子系統廠，國防產業相關會員，投入系統電子與控制相關產品。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "璿元科技": {
+  "nameZh": "璿元科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台南市新市區南科三路13號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.uashytech.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bmfur",
+  "jobCount": 15,
+  "profile": "公司營業處在台南科學園區，研發測試中心在嘉義亞洲無人機AI創新發展園區。HY Tech以無人飛行系統整合技術(UAS)為主軸，提供業界專業技術之諮詢與整合性解決方案。",
+  "logo": "a_璿元科技",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他專業／科學及技術業"
+ },
+ "創未來科技": {
+  "nameZh": "創未來科技股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "反制C-UAS"
+  ],
+  "apps": [
+   "國防軍事",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "新竹市東區公道五路三段1號7樓之8",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.tronfuture.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bkws1",
+  "jobCount": 2,
+  "profile": "清大團隊創辦的雷達與太空科技新創，全數位相列雷達技術者。反無人機系統涵蓋T.Radar偵測、T.Jammer干擾與攔截機，已供貨國軍並外銷歐美，另切入低軌衛星通訊，是台灣C-UAS代表廠商。",
+  "logo": "1a2x6bkws1",
+  "capital": "12億4936萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "環球防衛科技": {
+  "nameZh": "環球防衛科技股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "反制C-UAS"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺中市南屯區五權西路二段666號6樓之4",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "防衛科技公司，進駐嘉義亞創中心，投入反無人機與防衛裝備相關產品。",
+  "logo": "a_環球防衛科技",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "田屋科技": {
+  "nameZh": "田屋科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019"
+  ],
+  "roles": [
+   "反制C-UAS"
+  ],
+  "apps": [
+   "國防軍事",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "臺中市太平區太平里永平路三段143號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.tienwu.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人機反制設備廠，干擾槍與偵測防禦系統供應國內外執法與防衛需求，進駐亞創聚落。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "安捷航空": {
+  "nameZh": "安捷航空股份有限公司",
+  "sources": [
+   "curated"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市內湖區瑞光路408號8樓之3",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.apexflight.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣最大民航飛行訓練機構，自有機隊與航空訓練體系延伸至無人機飛手訓練與考照，是產業人才管道之一。",
+  "logo": "a_安捷航空",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "自強工程顧問": {
+  "nameZh": "自強工程顧問有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市中和區新民街112號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.strongco.com.tw/",
+  "url104": "https://www.104.com.tw/company/fv9p8x4",
+  "jobCount": 8,
+  "profile": "成立於1984年，深耕測量工程與空間資訊四十年，服務涵蓋航空測量、地形與海洋測量、車載與地面光達、無人機應用、3D建模與GIS整合。",
+  "logo": "fv9p8x4",
+  "capital": "5000萬元",
+  "empNo": "90人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他專業／科學及技術業"
+ },
+ "翔探科技": {
+  "nameZh": "翔探科技股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "農業",
+   "基礎建設巡檢",
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市新店區寶興路87巷1號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aeroprobing.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bkkg8",
+  "jobCount": 7,
+  "profile": "無人機系統整合新創，自研飛控與AI應用，聚焦橋梁、風機等基礎設施自主巡檢方案，並輸出系統整合技術。",
+  "logo": "1a2x6bkkg8",
+  "capital": "6800萬元",
+  "empNo": "25人",
+  "special": null,
+  "needsReview": false,
+  "industry": "通訊機械器材相關業"
+ },
+ "先創國際": {
+  "nameZh": "先創國際股份有限公司",
+  "sources": [
+   "curated",
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [
+   "代理中系產品"
+  ],
+  "address": "台北市內湖區瑞光路66巷25號1樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.esentra.com.tw",
+  "url104": "https://www.104.com.tw/company/10vpz0u8",
+  "jobCount": 21,
+  "profile": "2002年成立於內湖科學園區的智慧科技產品代理商，代理DJI Enterprise、insta360、瑞士Flyability等品牌，提供商用無人機設備、教育訓練與技術服務。",
+  "logo": "10vpz0u8",
+  "capital": "4億2000萬元",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電子通訊／電腦週邊零售業"
+ },
+ "上升空間資訊": {
+  "nameZh": "上升空間資訊股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市南屯區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.gmst.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bnai8",
+  "jobCount": 0,
+  "profile": "空拍測繪服務公司，提供無人機航測、地形測量與空間資訊處理服務。",
+  "logo": "1a2x6bnai8",
+  "capital": "暫不提供",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "一般無人機服務": {
+  "nameZh": "一般無人機服務股份有限公司",
+  "sources": [
+   "curated",
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市內湖區堤頂大道2段407巷20弄39號5樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnjqt",
+  "jobCount": 1,
+  "profile": "城市服務無人機新創，以軍規等級無人機系統結合AI航線規劃與精準噴洗技術，提供大樓外牆清潔與檢測服務，目標打造讓建築自我維護的低空經濟平台。",
+  "logo": "1a2x6bnjqt",
+  "capital": "200萬元",
+  "empNo": "6人",
+  "special": null,
+  "needsReview": false,
+  "industry": "環境衛生及污染防治服務業"
+ },
+ "工研院": {
+  "nameZh": "財團法人工業技術研究院",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [],
+  "flags": [],
+  "address": "新竹縣竹東鎮中興路四段195號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.itri.org.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣最大應用研究法人，無人機相關研發橫跨飛控、通訊、資安與反制技術，並主導無人機SIG推動產業整合、技術移轉與國際合作，是產業背後的技術靠山。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": "法人與學研",
+  "needsReview": false
+ },
+ "中科院": {
+  "nameZh": "國家中山科學研究院",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市龍潭區佳安里中正路佳安段481號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.ncsist.org.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國家中山科學研究院，台灣國防科技研發中樞。騰雲、銳鳶等軍用無人機的研製者，軍用商規案的技術轉移方，並與Anduril、Auterion等美國防科技公司簽署合作。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": "法人與學研",
+  "needsReview": false
+ },
+ "虎尾科技大學": {
+  "nameZh": "國立虎尾科技大學",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [],
+  "flags": [],
+  "address": "雲林縣虎尾鎮文化路64號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.nfu.edu.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣無人機人才培育重鎮，飛機工程系擁有完整航空維修與無人機課程，設有無人機研究中心並參與亞創聚落，畢業生是產業重要人力來源。",
+  "logo": "a_虎尾科技大學",
+  "capital": null,
+  "empNo": null,
+  "special": "法人與學研",
+  "needsReview": false
+ },
+ "弘光科技大學": {
+  "nameZh": "弘光科技大學",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "臺中市沙鹿區臺灣大道六段1018號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hk.edu.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "中部無人機應用人才培育基地，開設無人機操作證照課程與智慧農業應用學程，與產業界合作訓練飛手與應用人才。",
+  "logo": "a_弘光科技大學",
+  "capital": null,
+  "empNo": null,
+  "special": "法人與學研",
+  "needsReview": false
+ },
+ "亞創中心": {
+  "nameZh": "亞洲無人機AI創新應用研發中心",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [],
+  "flags": [],
+  "address": "嘉義縣義竹鄉台19線嘉義縣義竹鄉(原義竹機場)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.twaicoe.org",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "位於嘉義朴子的「亞洲無人機AI創新應用研發中心」，台灣無人機產業的實體聚落基地。進駐約50家廠商與法人，提供試飛場域、研發空間與媒合資源，是無人機國家隊的孵化場。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": "法人與學研",
+  "needsReview": false
+ },
+ "AndurilTaiwan": {
+  "nameZh": "Anduril Industries (台灣辦公室)",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.anduril.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "美國國防科技獨角獸，Palmer Luckey創辦，以Lattice AI指管平台與自主作戰系統聞名。2025年8月宣布在台設立辦公室，與中科院簽署合作備忘錄，就AI指管平台與新一代戰場整合系統展開合作，並在台採購零組件。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": "在台外商",
+  "needsReview": false
+ },
+ "ShieldAI": {
+  "nameZh": "Shield AI (台灣辦公室)",
+  "sources": [
+   "curated"
+  ],
+  "roles": [],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市信義區信義路五段7號(台北101)",
+  "lat": null,
+  "lng": null,
+  "website": "https://shield.ai",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "美國國防AI公司，V-BAT垂直起降戰術無人機與Hivemind自主飛行軟體的開發者。2025年9月進駐台北101設立辦公室，與漢翔簽署團隊協議推動在台部署與維保，並與雷虎合作海上自主系統。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": "在台外商",
+  "needsReview": false
+ },
+ "文星電子": {
+  "nameZh": "文星電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市信義區崇德街82號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無線通訊系統設計製造商，通訊模組應用於無人載具資料鏈與遙測遙控。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "晨星電子": {
+  "nameZh": "晨星電子股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市內湖區瑞光路358巷30弄15號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.c-cstar.com.tw/zh-tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bjpak",
+  "jobCount": 2,
+  "profile": "提供Wire Cable , FPC ConN等各項電子連接線材與連接器產品 內部線 : LVDS / eDP / Camera / 各類3C / 車用 / 醫療 / 安控 / 無人機之訊號舆電源配線 外部線 : HDMI / USB (3.1/3.0/2.0) / TYPE C / SATA / AC / DC電源線",
+  "logo": null,
+  "capital": "1億",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "群光電子": {
+  "nameZh": "群光電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市三重區光復路二段69號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chicony.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球最大鍵盤與視訊鏡頭模組廠之一，影像模組能量可支援無人載具視覺系統。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "廣營電子": {
+  "nameZh": "廣營電子有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市大同區赤峰街41巷11號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無線通訊設備製造商，投入無人載具通訊系統與電子產品。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "茂訊電腦": {
+  "nameZh": "茂訊電腦股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市深坑區北深路三段250號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.mxic-nb.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "強固型電腦與軍規筆電通路整合商，供應戶外與國防場域運算設備。",
+  "logo": "a_茂訊電腦",
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "萬旭電業": {
+  "nameZh": "萬旭電業股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市五股區五工六路72號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.wanshih.com",
+  "url104": "https://www.104.com.tw/company/achdycw",
+  "jobCount": 4,
+  "profile": "上櫃線材廠（6134），極細同軸線與連接線組專家，產品橫跨資訊、通訊、車用與醫療領域，線組產品可應用於無人載具。",
+  "logo": "achdycw",
+  "capital": "8億18萬元",
+  "empNo": "1200人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "信邦電子": {
+  "nameZh": "信邦電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料",
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "苗栗縣苗栗市國華路582號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.sinbon.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "連接線束與連接器整合大廠，客製線束、天線與感測連接方案供應醫療、綠能與無人載具系統。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "致茂電子": {
+  "nameZh": "致茂電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "桃園市龜山區文茂路88號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chromaate.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球電子量測與自動化測試設備大廠，電池、馬達與電源測試方案支援無人機動力與電子系統的開發驗證。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "鼎天國際": {
+  "nameZh": "鼎天國際股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市龜山區公西里文化二路40號8樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.royaltek.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "GPS模組與衛星導航產品廠（RoyalTek），定位模組應用於車載、穿戴與無人載具導航。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "全波科技": {
+  "nameZh": "全波科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "桃園市龍潭區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.kbest.com.tw",
+  "url104": "https://www.104.com.tw/company/7nh2rmx",
+  "jobCount": 0,
+  "profile": "創立於1998年的射頻／微波設備商，開發雷達與無線通訊模組及子系統，產品應用於無人機、救災與安全系統，具長距離與抗干擾特性。",
+  "logo": null,
+  "capital": "1億9000萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "太盟光電科技": {
+  "nameZh": "太盟光電科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺南市官田區二鎮里工業南路37號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.pantrontec.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "射頻與微波元件廠，衛星接收與天線模組技術可應用於無人載具通訊。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "盛群半導體": {
+  "nameZh": "盛群半導體股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹科學園區新竹市研新二路3號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.holtek.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "MCU設計大廠（Holtek），低功耗微控制器廣泛用於感測與馬達控制，是無人機電控的元件來源之一。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "新唐科技": {
+  "nameZh": "新唐科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "curated"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹科學園區新竹市研新三路4號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.nuvoton.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "華邦集團旗下MCU大廠，微控制器是無人機飛控、電調與感測系統的核心元件，另有工業與車規產品線。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "聯發科技": {
+  "nameZh": "聯發科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "curated"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹科學園區新竹市篤行一路1號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.mediatek.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球智慧型手機晶片龍頭，台灣市值最高的IC設計公司。其SoC與連網晶片具備無人機主控運算與通訊整合能力，是供應鏈上游的關鍵晶片來源。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "聯華電子": {
+  "nameZh": "聯華電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹科學園區新竹市力行二路3號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.umc.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球晶圓代工大廠，成熟製程晶片產能是各式無人機控制、電源與通訊IC的重要製造來源。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "長茂科技": {
+  "nameZh": "長茂科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹科學園區新竹縣寶山鄉研發一路5號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "GPS衛星導航技術公司，定位模組與接收機應用於載具導航與追蹤。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "寰波科技": {
+  "nameZh": "寰波科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新竹縣寶山鄉園區二路58號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.smartant.com",
+  "url104": "https://www.104.com.tw/company/7iqjens",
+  "jobCount": 7,
+  "profile": "微波通訊元件公司，射頻元件與模組可應用於無人載具通訊鏈路。",
+  "logo": "7iqjens",
+  "capital": "4899萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "智捷科技": {
+  "nameZh": "智捷科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市新安路8號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.zcom.com.tw",
+  "url104": "https://www.104.com.tw/company/12nodurk",
+  "jobCount": 8,
+  "profile": "智捷科技(Z-COM,INC.)成立於1995年，設立於台灣新竹科學工業園區，為國內專業的無線通訊公司。智捷科技以RF設備效能及無線網路整合接入為開發的技術核心，積極創新以提供客戶完整之無線產品解決方案為目標，多年來為歐洲、美洲、亞洲、中國地區等電信業者提供品質穩定而值得信賴的無線網路設備。",
+  "logo": "12nodurk",
+  "capital": "7億1701萬元",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "通訊機械器材相關業"
+ },
+ "普立得科技": {
+  "nameZh": "普立得科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區建康路164號11樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "3D列印設備與逆向工程方案代理商，積層製造服務支援無人機原型與零件快速開發。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "剛鈺": {
+  "nameZh": "剛鈺股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市內湖區文湖街6號4樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "精密零件公司，投入無人載具相關零組件製造。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "蜂鳥飛行器": {
+  "nameZh": "蜂鳥飛行器股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市八德區大昌里介壽路2段428巷17弄7之1號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "主要業務：無人飛行載具研發及相關零組件製造。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "中強光電": {
+  "nameZh": "中強光電股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市力行路11號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.coretronic.com/",
+  "url104": "https://www.104.com.tw/company/a5hppdk",
+  "jobCount": 20,
+  "profile": "中強光電於1992年6月30日設立於新竹科學園區，自創立以來即定位公司為”創新顯示系統整合方案之提供者”，是台灣第一家液晶背光模組製造商，並且率先開發量產全球最小、最輕之VGA單片液晶投影機及XGA DLP投影機，整合光、機、電、熱、材料及精密模具製程等技術，開啟了台灣顯示系統的新時代，奠定日後企業發展利基。",
+  "logo": "a5hppdk",
+  "capital": "39億981萬元",
+  "empNo": "11000人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "橙森國際": {
+  "nameZh": "橙森國際有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "基隆市信義區義二路175號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.dronesvision.com",
+  "url104": "https://www.104.com.tw/company/dynf6o",
+  "jobCount": 4,
+  "profile": "橙森國際投入無人機市場已超過十年時間，擁有無人機十年以上的專業，是台灣少數專注在研發專業無人機及反無人機產品的團隊。公司主要發展的旗下品牌為『DronesVision』、『High+Mighty』、『SKYNET Anti-drone System』，致力於無人機系統（武裝無人機、長時間偵查無人機）、反無人機系統及國防航太等產品系統整合、代理及銷售。",
+  "logo": "dynf6o",
+  "capital": "1300萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "飛隼科技": {
+  "nameZh": "飛隼科技有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [
+   "代理中系產品"
+  ],
+  "address": "台北市內湖區",
+  "lat": null,
+  "lng": null,
+  "website": "http://djitaiwan.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bj6e7",
+  "jobCount": 0,
+  "profile": "遙控模型與航照設備商，DJI（大疆創新）在台主要代理商，具備無人機維修與操作能量，並對經銷體系提供技術支援。",
+  "logo": "1a2x6bj6e7",
+  "capital": "150萬元",
+  "empNo": "16人",
+  "special": null,
+  "needsReview": false,
+  "industry": "文教╱育樂用品零售業"
+ },
+ "中華電信": {
+  "nameZh": "中華電信股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市中正區信義路一段21之3號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.cht.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台灣最大電信商，投入5G專網與無人機隊管理，參與無人機交通管理（UTM）與網聯無人機實證，提供飛行通訊的基礎設施。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "遠傳電信": {
+  "nameZh": "遠傳電信股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市內湖區瑞光路468號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.fetnet.net",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "電信三雄之一，以5G專網結合無人機於智慧巡檢、防災監測等場域實證，發展網聯無人機應用服務。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "台灣大哥大": {
+  "nameZh": "台灣大哥大股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市信義區菸廠路88號12樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.taiwanmobile.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "電信三雄之一，5G網路結合無人機投入場域應用與智慧城市實證。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "翔隆航太": {
+  "nameZh": "翔隆航太股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市新莊區五權一路一號五樓之四",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.dragonflyuas.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bli84",
+  "jobCount": 5,
+  "profile": "成立於2015年的無人機服務商（Dragonfly UAS），累積逾24,000次飛行、協助400多個公私部門導入無人機方案，為美國Skydio台灣區代理，提供任務規劃、合規申請到成果交付的一站式服務。",
+  "logo": "1a2x6bli84",
+  "capital": "1億",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "台灣儀器行": {
+  "nameZh": "台灣儀器行股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市松山區南京東路3段272號9樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "老牌量測儀器代理商，供應航太與電子產業的檢測量測設備。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "中國電器": {
+  "nameZh": "中國電器股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺北市內湖區湖元里行善路124號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chinaelectric.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "東亞照明母公司、老牌電機廠，事業涵蓋照明與電池，曾投入無人載具電池應用。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "智航國際企業": {
+  "nameZh": "智航國際企業有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "臺北市中正區忠孝東路2段100號3樓之6",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人機代理與應用服務商，提供商用無人機設備、教育訓練與空拍服務。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "能元科技": {
+  "nameZh": "能元科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "南部科學園區臺南市善化區大利二路10號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.molicel.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台泥集團旗下鋰電池廠，Molicel品牌高功率電芯是全球高階無人機與電動航空指名採用的動力來源，高雄超級工廠供應國際市場。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "文曄科技": {
+  "nameZh": "文曄科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市中和區平河里中正路738號14樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.wtmec.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "亞洲最大半導體零組件通路商之一，代理各大原廠晶片，是無人機電子料件的重要供應管道。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "宏遠儀器": {
+  "nameZh": "宏遠儀器有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市新店區民權路88之5號9樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "儀器設備供應商，提供電子量測與檢測儀器。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "群光電能科技": {
+  "nameZh": "群光電能科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市三重區光復路二段69號30樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chiconypower.com",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "群光集團電源事業，電源供應器與電池管理系統應用於資訊、車載與載具電子。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "赫強國際": {
+  "nameZh": "赫強國際股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [
+   "代理中系產品"
+  ],
+  "address": "新北市新店區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bjzbk",
+  "jobCount": 0,
+  "profile": "成立於2016年的電池模組商，銷售異形電芯、動力電池與日韓系電芯，代理深圳格瑞普等中國電池品牌，提供無人機動力電池與電池組ODM／OEM服務。",
+  "logo": "1a2x6bjzbk",
+  "capital": "1400萬元",
+  "empNo": "6人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "千附實業": {
+  "nameZh": "千附實業股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市關東路187巷9之1號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "工程服務與精密製造集團，旗下千附精密投入半導體與航太零組件，母集團供應統包工程與設備服務。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "大數聚物聯科技": {
+  "nameZh": "大數聚物聯科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市楊梅區萬大路61巷11號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "物聯網數據服務公司，投入感測數據蒐集與分析應用。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "飛岳影像創作": {
+  "nameZh": "飛岳影像創作有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹縣竹北市",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.dronetw.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bm8m2",
+  "jobCount": 0,
+  "profile": "無人機教學與應用服務商，提供考照培訓、無人機銷售與商業空拍服務。",
+  "logo": "1a2x6bm8m2",
+  "capital": "600萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電子通訊╱電腦週邊零售業"
+ },
+ "極現科技": {
+  "nameZh": "極現科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍",
+   "基礎建設巡檢",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市隘口一街151號4樓之2",
+  "lat": null,
+  "lng": null,
+  "website": "https://earthbook.xyz",
+  "url104": "https://www.104.com.tw/company/1a2x6bkv8r",
+  "jobCount": 9,
+  "profile": "專注無人機智慧應用的新創，將無人機、AI雲端平台與數據分析導入智慧巡檢、醫療物流與場域驗證，服務企業與政府單位。",
+  "logo": "1a2x6bkv8r",
+  "capital": "6869萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "數位內容產業"
+ },
+ "駿安科技": {
+  "nameZh": "駿安科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "反制C-UAS"
+  ],
+  "apps": [
+   "測繪空拍",
+   "公共安全與救災",
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺北市中正區紹興南街12號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "手持攜帶型空拍機攔截器的開發商，提供反無人機干擾與防護設備。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "鈺立微電子": {
+  "nameZh": "鈺立微電子股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺北市內湖區西湖里基湖路35巷22號2樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "3D深度視覺晶片與模組公司（eYs3D），立體視覺感測技術可用於無人機避障與空間感知。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "雙鴻科技": {
+  "nameZh": "雙鴻科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市新莊區五權三路6號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.auras.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "散熱模組大廠，熱管與均溫板方案支援高功率電子系統，可應用於無人機動力與運算散熱。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "強將實業": {
+  "nameZh": "強將實業股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "新北市三重區重新路5段646號9樓之6",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.ir.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "紅外線熱顯像儀與檢測設備供應商，熱像酬載應用於無人機巡檢與搜救。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "創宇航太科技": {
+  "nameZh": "創宇航太科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "農業",
+   "物流運輸",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "新竹市",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.tridpacific.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bk0bt",
+  "jobCount": 0,
+  "profile": "創宇航太Trident Pacific是新成立之國際合資公司，未來資本額預計新台幣7億2千萬元，位於新竹科學園區。目標是組裝並發射一小型合成孔徑雷達衛星(Synthetic Aperture Radar, SAR smallsat)，使它能夠穿透雲層，全天候、日夜運作為地球環境成像，從太空中即時擷取地球表面資訊，提供亞太地區低成本、高效、即時性影像及資訊。",
+  "logo": "1a2x6bk0bt",
+  "capital": "1億",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "聯詠科技": {
+  "nameZh": "聯詠科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104",
+   "curated"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新竹市創新一路1-2號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.novatek.com.tw",
+  "url104": "https://www.104.com.tw/company/12nopku0",
+  "jobCount": 212,
+  "profile": "全球顯示驅動IC與影像SoC大廠，影像處理晶片可應用於無人機圖傳與視覺系統。",
+  "logo": "12nopku0",
+  "capital": "60億1982萬元",
+  "empNo": "3400人",
+  "special": null,
+  "needsReview": true,
+  "industry": "半導體製造業"
+ },
+ "佳邦科技": {
+  "nameZh": "佳邦科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "苗栗縣竹南鎮公義里11鄰科義街11號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.inpaq.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "天線與被動元件廠（INPAQ），天線模組與防護元件應用於通訊模組與無人載具鏈路。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "合盈光電科技": {
+  "nameZh": "合盈光電科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "中部科學園區臺中市大雅區科雅路18號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hpb.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "車載影像模組大廠，攝影模組與視訊感測技術可支援無人載具視覺與酬載。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "大立光電": {
+  "nameZh": "大立光電股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "臺中市南屯區精科路11號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.largan.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "全球手機鏡頭霸主，精密光學製造能力是高階影像酬載的潛在供應來源。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "台灣日旭科技": {
+  "nameZh": "台灣日旭科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "彰化縣溪湖鎮湖東里員鹿路二段182號3樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "飛行控制系統研發商，投入無人載具飛控與電子相關產品。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "緯華航太工業": {
+  "nameZh": "緯華航太工業股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台南市永康區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnm57",
+  "jobCount": 0,
+  "profile": "台灣唯一、亞洲少數能製造最大起飛重量550公斤超輕型直升機的公司，正為中型重載旋翼無人機開發油推動力總成系統，整合飛控與通訊導航，鎖定空中測繪、基礎設施巡檢與商業物流應用。",
+  "logo": null,
+  "capital": "2億1000萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "尚皇科技": {
+  "nameZh": "尚皇科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市大里區草堤路158巷7號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台中科技公司，投入無人機相關設備與服務。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "蒼穹科技": {
+  "nameZh": "蒼穹科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市新興區文橫二路127巷20之1號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "高雄無人機應用服務商，投入空拍與飛行服務。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "科翰科技": {
+  "nameZh": "科翰科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "南投縣草屯鎮明正里自由街９２號１樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "南投科技服務商，投入無人機教育與應用推廣。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "易圖科技": {
+  "nameZh": "易圖科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "農業",
+   "公共安全與救災",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市烏日區三和里高鐵一路268號22樓之3",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.easymap.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmo6z",
+  "jobCount": 4,
+  "profile": "「易圖科技股份有限公司」成立於2003年，以卓越的技術研發能量為基底，長期與逢甲大學地理資訊系統研究中心產學技術合作，其團隊組成結合來自逢甲大學內資訊、土地管理、數學、測量及行銷等不同領域專任教師與研究人員，共同合作承接各項公民營計畫，協助資訊系統開發及整體規劃服務等，將空間資訊學術分析研究化為產能實作。",
+  "logo": "1a2x6bmo6z",
+  "capital": "3000萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "森泰儀器": {
+  "nameZh": "森泰儀器有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市西區臺灣大道二段105號12樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.sokkia.com.tw",
+  "url104": "https://www.104.com.tw/company/ckgq8wg",
+  "jobCount": 2,
+  "profile": "*測量工程精密儀器日本SOKKIA、Topcon 台灣總代理及原廠授權維修中心 * 加拿大NovAtel高精密衛星定位產品台灣總代理及原廠授權維修中心 *無人機產品代理;自駕車高精度晶片代理及專案服務 *網路RTK高精度定位服務 *TAF國家認證校正實驗室 更多資訊請至官網：https://www.sokkia.com.tw/ Youtube頻道: https://www.youtube.com/@user-sn2qw7zy3r/vid",
+  "logo": "ckgq8wg",
+  "capital": "1200萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "磁震科技開發": {
+  "nameZh": "磁震科技開發股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市梧棲區四維中路331號2樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "振動與噪音（NVH）量測技術公司，測試方案支援載具結構與動力系統驗證。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "速創智慧科技": {
+  "nameZh": "速創智慧科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市南屯區",
+  "lat": null,
+  "lng": null,
+  "website": "http://agag.fast-create.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bkczm",
+  "jobCount": 0,
+  "profile": "無人多軸載具設計與行業應用開發商，投入應用行業機研發與IoT系統，並推動產學合作。",
+  "logo": "1a2x6bkczm",
+  "capital": "暫不提供",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "動控科技": {
+  "nameZh": "動控科技有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "雲林縣虎尾鎮平和里光復路42號1樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "馬達驅動與運動控制技術公司，控制模組可應用於無人載具動力系統。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "先發電光": {
+  "nameZh": "先發電光股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹科學園區苗栗縣竹南鎮科研路50-3號5樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "主要業務：VCSEL 及紅外光磊晶片之生產及研發製造。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "首羿國際": {
+  "nameZh": "首羿國際股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "臺中市西屯區惠來里市政路386號16樓之7",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人機教育訓練與認證機構，經營校園認證中心，培育飛手與應用人才。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "全訊科技": {
+  "nameZh": "全訊科技股份有限公司",
+  "sources": [
+   "pdf2019",
+   "curated"
+  ],
+  "roles": [
+   "飛控導航",
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "臺南市新市區大順七路90號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.transcom.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "國防射頻功率元件廠，GaAs/GaN功率放大器供應國軍與國際雷達、電戰系統，是反制與雷達供應鏈的關鍵元件商。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "天空飛行科技": {
+  "nameZh": "天空飛行科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "臺南市安定區蘇林里蘇厝112之33號一樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "台南無人機廠商，投入農用與商用無人機整機研製及飛行服務，深耕南部智慧農業場域。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "征宇科技": {
+  "nameZh": "征宇科技股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市三民區大昌二路187號3樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": null,
+  "jobCount": 0,
+  "profile": "無人飛行載具研發公司，投入無人機整機設計與系統開發。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "中鋼碳素化學": {
+  "nameZh": "中鋼碳素化學股份有限公司",
+  "sources": [
+   "pdf2019"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "高雄市前鎮區成功二路88號25樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.cscc.com.tw",
+  "url104": null,
+  "jobCount": 0,
+  "profile": "中鋼集團碳材料公司，碳素化學品與鋰電池負極材料供應電池產業，是無人機動力供應鏈的上游材料商。",
+  "logo": null,
+  "capital": null,
+  "empNo": null,
+  "special": null,
+  "needsReview": false
+ },
+ "亞太國際無人機俱樂部": {
+  "nameZh": "亞太國際無人機俱樂部股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "國防軍事",
+   "農業",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台中市西屯區",
+  "lat": null,
+  "lng": null,
+  "website": "https://aidcvipclub.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmsng",
+  "jobCount": 0,
+  "profile": "具民航局認證法人資格的無人機訓練與認證機構，提供飛行操作技術認證、證書查驗與技術檢驗服務，推動無人機資源整合與產業生態網路。",
+  "logo": "1a2x6bmsng",
+  "capital": "500萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "自動控制相關業"
+ },
+ "台灣無人機競技科技": {
+  "nameZh": "台灣無人機競技科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市大雅區員林里大林路333號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bn7k7",
+  "jobCount": 3,
+  "profile": "無人機教育與競技推廣公司，提供操作教學、考照培訓、飛球競技產品與活動策劃。",
+  "logo": "1a2x6bn7k7",
+  "capital": "160萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "矽品精密工業": {
+  "nameZh": "矽品精密工業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "台中市潭子區大豐路三段123號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.spil.com.tw",
+  "url104": "https://www.104.com.tw/company/ppzn5ts",
+  "jobCount": 385,
+  "profile": "成立於1984年的全球半導體封測大廠，提供晶圓凸塊、晶圓測試、IC封裝與測試的一元化服務，全球員工約兩萬五千人。",
+  "logo": "ppzn5ts",
+  "capital": "442億",
+  "empNo": "32000人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他半導體相關業"
+ },
+ "菱光科技": {
+  "nameZh": "菱光科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台北市內湖區南京東路6段501號9樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.csi-sensor.com.tw/index.php/zh-tw/",
+  "url104": "https://www.104.com.tw/company/7mh7q0g",
+  "jobCount": 13,
+  "profile": "成立於1998年、全球最大接觸式影像感測器（CIS）製造廠，台灣第一家投入CCD元件研發生產的影像感測公司，2005年上市。",
+  "logo": "7mh7q0g",
+  "capital": "14億9055萬元",
+  "empNo": "1000人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "大毅科技": {
+  "nameZh": "大毅科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市蘆竹區南山路三段17巷4號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.tai.com.tw/",
+  "url104": "https://www.104.com.tw/company/at7pqvc",
+  "jobCount": 50,
+  "profile": "大毅科技成立於1989年，為全球一線被動元件及保護元件製造供應商，是台灣最早投入晶片生產與研發晶片電阻之專業製造廠，產能已達到全球市場的領導地位，生產之晶片電阻產品應用於：高端通訊、車用電子、AI物聯網、無人機、醫療器材、智慧家庭等消費性電子產品。交通方式: 1.桃園機場捷運：A10-山鼻站下車，步行約10分鐘到達南山廠。",
+  "logo": "at7pqvc",
+  "capital": "15億",
+  "empNo": "1300人",
+  "special": null,
+  "needsReview": false,
+  "industry": "被動電子元件製造業"
+ },
+ "華電聯網": {
+  "nameZh": "華電聯網股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市汐止區新台五路一段108號11樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.hwacom.com",
+  "url104": "https://www.104.com.tw/company/12y30460",
+  "jobCount": 119,
+  "profile": "成立於1994年的系統整合上市公司，結合資訊、網路、電信與媒體四大領域，提供資通訊、智慧應用與資安解決方案，並投入無人機智慧巡檢應用。",
+  "logo": "12y30460",
+  "capital": "14億1000萬元",
+  "empNo": "920人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "耀勝電子": {
+  "nameZh": "耀勝電子股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "桃園市大溪區大鶯路309-28號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.top-nation.com/",
+  "url104": "https://www.104.com.tw/company/13r4oxwg",
+  "jobCount": 10,
+  "profile": "耀勝電子股份有限公司（股票代號：3207）成立於1992年，專注於磁性元件產品之研發、設計與製造，並逐步拓展電子代工服務（EMS）與車用電子等相關領域，致力成為兼具技術研發與製造整合能力的專業電子企業。公司產品廣泛應用於伺服器、工業控制、太陽能逆變器、儲能系統、充電樁、電動車電池管理系統（BMS）、LED照明、電視電源，以及各類消費性與工業電子產品。",
+  "logo": "13r4oxwg",
+  "capital": "6億770萬元",
+  "empNo": "500人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "耕興": {
+  "nameZh": "耕興股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市汐止區新台五路一段106號6樓B棟",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.sporton.com.tw",
+  "url104": "https://www.104.com.tw/company/18sbogso",
+  "jobCount": 43,
+  "profile": "一、規模 耕興（SPORTON 股票代號：6146）自1986年成立以來，致力於提供世界各品牌大廠專業的產品測試與驗證服務合作，如：Google、TESLA、Intel、HP、微軟、高通、聯發科、OPPO、ASUS.....等，經過多年來的用心經營，並積極參與相關標準制定之國際會議組織，已取得包括美國FCC(美國通信委員會) TCB/加拿大 IC(Industry Canada) FCB/歐盟及英國 Notified Body/台灣主管",
+  "logo": "18sbogso",
+  "capital": "10億1000萬元",
+  "empNo": "1200人",
+  "special": null,
+  "needsReview": false,
+  "industry": "檢測技術服務"
+ },
+ "力山工業": {
+  "nameZh": "力山工業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市大里區仁化路261號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.rexon.net",
+  "url104": "https://www.104.com.tw/company/pm5kqn4",
+  "jobCount": 31,
+  "profile": "創立於1972年的機電上市公司，橫跨機械、電機與電子領域，近年切入E-BIKE電動輔助自行車與無人機動力系統等新事業。",
+  "logo": "pm5kqn4",
+  "capital": "18億",
+  "empNo": "800人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電力機械器材製造修配業"
+ },
+ "希世比能源科技": {
+  "nameZh": "希世比能源科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "台北市士林區承德路4段150號11樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://csb-battery.com/zh-TW/",
+  "url104": "https://www.104.com.tw/company/a9evqb4",
+  "jobCount": 17,
+  "profile": "前身為1987年成立的台灣神戶電池，2020年更名，密閉式鉛酸蓄電池製造商，產品應用於UPS、通訊基地台備援電力與電動代步車。",
+  "logo": "a9evqb4",
+  "capital": "7億5000萬元",
+  "empNo": "560人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "聯德電子": {
+  "nameZh": "聯德電子股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市龜山區科技一路69號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.bestec.com.tw/",
+  "url104": "https://www.104.com.tw/company/ag8l9co",
+  "jobCount": 15,
+  "profile": "聯德電子股份有限公司成立於1988年，並於2008年3月正式掛牌上市，為專業電源供應器研發、設計、製造及行銷領導廠商，主要產品涵蓋高效率、高密度、高可靠度之 Desktop PC Power Supply、Adaptor、LED Drivers、Open-Frame、Server Power Supply、LCD TV Power Supply 及 Medical Power Supply 等，現為全球前五大電腦品牌交換式電源供應器之主",
+  "logo": "ag8l9co",
+  "capital": "6億4000萬元",
+  "empNo": "600人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "鉅嘉聯合科技": {
+  "nameZh": "鉅嘉聯合科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區建一路136號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://giga-image.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnboo",
+  "jobCount": 14,
+  "profile": "由技嘉、凌陽、先進光、美律、松上等上市櫃公司投資的光學設計製造整合公司，提供光學與事務產品的設計製造服務。",
+  "logo": "1a2x6bnboo",
+  "capital": "4億",
+  "empNo": "300人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "輝能科技": {
+  "nameZh": "輝能科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區自強七路6-1號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.prologium.com",
+  "url104": "https://www.104.com.tw/company/cysbcqw",
+  "jobCount": 86,
+  "profile": "輝能科技股份有限公司 (ProLogium TM) 創立於民國95年，是發明全球第一款固態鋰陶瓷Lithium Ceramic Battery (LCB)電池技術的鋰電池芯製造商，也是目前全球唯一成功量產固態鋰陶瓷電池的公司。",
+  "logo": "cysbcqw",
+  "capital": "5億",
+  "empNo": "868人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "奧榮科技": {
+  "nameZh": "奧榮科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "飛控導航",
+   "通訊資安"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "物流運輸",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台南市仁德區上崙街459巷22號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.avilon.co",
+  "url104": "https://www.104.com.tw/company/1a2x6bl3cx",
+  "jobCount": 7,
+  "profile": "成立於2017年的MIT無人機方案商，產品全自主開發，從飛控起步整合通訊架構與雲端系統，發展全自動化無人機與機隊管控系統，已通過無人機中階資安認證。",
+  "logo": "1a2x6bl3cx",
+  "capital": "3036萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "佐茂": {
+  "nameZh": "佐茂股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "高雄市前鎮區擴建路1-19號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.jms.com.tw/",
+  "url104": "https://www.104.com.tw/company/7k2rk7c",
+  "jobCount": 21,
+  "profile": "*以電能推動世界前行，驅動智慧未來的核心能量* 佐茂股份有限公司專注於鋰電池模組設計與製造，提供專業的 ODM / OEM / JDM整合服務，致力為全球關鍵應用領域打造安全、可靠且智慧化的能源解決方案。",
+  "logo": "7k2rk7c",
+  "capital": "4億3000萬元",
+  "empNo": "790人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "圓剛科技": {
+  "nameZh": "圓剛科技股份有限公司",
+  "sources": [
+   "104",
+   "curated"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [
+   "供應鏈大廠"
+  ],
+  "address": "新北市中和區建一路135號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.avermedia.com/",
+  "url104": "https://www.104.com.tw/company/auhyjqo",
+  "jobCount": 17,
+  "profile": "影像擷取與串流設備大廠，視訊技術支援無人機影像傳輸與地面站顯示處理。",
+  "logo": "auhyjqo",
+  "capital": "15億4300萬元",
+  "empNo": "300人",
+  "special": null,
+  "needsReview": false,
+  "industry": "多媒體相關業"
+ },
+ "昶瑞機電": {
+  "nameZh": "昶瑞機電股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市龍井區台西南路272號",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bi1bu",
+  "jobCount": 13,
+  "profile": "專業直流馬達吊扇ODM廠，整合馬達、電控與燈具系統，行銷美洲、大洋洲與歐亞市場，馬達技術可延伸至無人載具動力應用。",
+  "logo": "1a2x6bi1bu",
+  "capital": "3億150萬元",
+  "empNo": "110人",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "世紀民生科技": {
+  "nameZh": "世紀民生科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台南市安平區永華路二段248號8樓之6",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.myson.com.tw/",
+  "url104": "https://www.104.com.tw/company/a5hnqe0",
+  "jobCount": 11,
+  "profile": "世紀民生(股票代號5314)是全球IC設計領導廠商，成立於1990年，於 113年開始轉型研發智能AI機器人與無人機市場。除IC設計產業的發展外，集團切入生技及健康智能平台，將生物數據與AI資料庫結合，逐步朝向ＡＩ智能大健康產業邁進。公司看好保健食品與外祕體的市場潛力，結合代理的「朝和生醫」，推出高端原料製成的保健產品。",
+  "logo": "a5hnqe0",
+  "capital": "35億",
+  "empNo": "180人",
+  "special": null,
+  "needsReview": false,
+  "industry": "食品什貨批發業"
+ },
+ "錦明實業": {
+  "nameZh": "錦明實業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "桃園市蘆竹區經國路896號16樓(HVW經國方略大樓/南崁交流道)",
+  "lat": null,
+  "lng": null,
+  "website": "https://jmg.com.tw/",
+  "url104": "https://www.104.com.tw/company/aby4oso",
+  "jobCount": 31,
+  "profile": "錦明實業（股票代號：3230） 是一家以工程實力與製造整合為核心的上市公司，長期專注於五金與塑膠射出成型製造、加工與系統整合，並於中國設有主要生產據點，具備從機構設計、模具開發、量產製造到組裝交付的完整能力。近年積極投入無人機（UAV）相關產業發展，將既有的機構設計、精密製造與專案執行經驗，實際應用於無人機結構件、機構模組、系統整合與工程應用。",
+  "logo": "aby4oso",
+  "capital": "8億6010萬元",
+  "empNo": "65人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "達運光電": {
+  "nameZh": "達運光電股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市五股區五工六路41號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.twoway.com.tw",
+  "url104": "https://www.104.com.tw/company/13wudjhk",
+  "jobCount": 17,
+  "profile": "達運光電集團（Twoway）成立於1992年，為亞洲第一及全球前三大的寬頻設備供應商。達運光電專注於寬頻網路設備研發與製造，以ACI自有品牌行銷全球，直接提供寬頻營運商「廣域傳輸」之完整解決方案。主要產品通過MSO嚴苛驗證合格，成為北美四大有線電視寬頻網路設備第一級首選供應商。",
+  "logo": "13wudjhk",
+  "capital": "10億",
+  "empNo": "300人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "正淩精密工業": {
+  "nameZh": "正淩精密工業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "新北市汐止區康寧街169巷1號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.nextrongroup.com/zh-TW",
+  "url104": "https://www.104.com.tw/company/a975vzs",
+  "jobCount": 19,
+  "profile": "正淩精密工業（Nextron）成立於1986年，是一間高速成長且全球化的上市櫃企業（股票代號：8147），提供連接器、線束、機櫃組裝與整機系統開發服務給世界一流企業。正淩的產品已經廣泛應用於未來十年快速成長的領域，包括AI資料中心、人型機器人、高階醫療設備與醫美設備、無人機等最熱門之應用。近年來多次受到國內知名媒體如商業週刊特別報導與肯定。",
+  "logo": "a975vzs",
+  "capital": "4億",
+  "empNo": "500人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "星能": {
+  "nameZh": "星能股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "能源"
+  ],
+  "flags": [],
+  "address": "台北市內湖區瑞光路480號12樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.starenergy.com.tw/",
+  "url104": "https://www.104.com.tw/company/18ov7kao",
+  "jobCount": 19,
+  "profile": "星能股份有限公司成立於1996年，為台灣汽電共生股份有限公司(目前市值台灣前200大) 100%轉投資之子公司。而台灣汽電共生股份有限公司於1992年成立，為國內第一家股票上市之發電業及唯一具複循環天然氣電廠統包實績之專業公司，並榮獲天下雜誌2024「天下永續公民獎」中堅企業組第8名、「2023 TCSA台灣企業永續獎」、「台灣百大永續典範企業獎」及「企業永續報告-金獎」等殊榮。",
+  "logo": "18ov7kao",
+  "capital": "15億",
+  "empNo": "210人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "百呈科技": {
+  "nameZh": "百呈科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "飛控導航"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市五股區五權七路71號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.alljack.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bid5i",
+  "jobCount": 7,
+  "profile": "百呈科技成立於2013年，為【精密金屬和塑膠零件之電腦化數值控制加工(CNC)製造及組裝廠商】，產品主要範疇以【航太國防、醫療器材為首，其次為消費性電子、智慧機器人與軍用無人機等產業零組件】，並可配合研發打樣小量到大量生產及組裝。行銷據點以北美洲為主，並逐步擴展接單據點至以色列、德國、日本等。",
+  "logo": "1a2x6bid5i",
+  "capital": "3億",
+  "empNo": "110人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "鑫永銓": {
+  "nameZh": "鑫永銓股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸",
+   "能源"
+  ],
+  "flags": [],
+  "address": "南投縣南投市南崗三路294號(540)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hyc-king.com/index_tw.php",
+  "url104": "https://www.104.com.tw/company/nr3nw34",
+  "jobCount": 8,
+  "profile": "鑫永銓成立於1964年，目前為台灣最大的橡膠輸送帶生產廠商，鑫永銓一直持續投入新進設備與製程創新，目前已通過ISO 9001、ISO 14001、ISO 45001、ISO 50001、ISO27001及ISO14064-1之認證。",
+  "logo": "nr3nw34",
+  "capital": "7億7000萬元",
+  "empNo": "112人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他機械製造修配業"
+ },
+ "艾若颯航太科技": {
+  "nameZh": "艾若颯航太科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市梧棲區經一路21號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aeraxa.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnkyn",
+  "jobCount": 5,
+  "profile": "上緯投控著眼於高階複合材料於航太、無人機及衛星通訊市場之爆發性成長需求，經由集團資源之全面盤點與組織體系之重塑，2025年正式成立「艾若颯航太科技股份有限公司 (Aeraxa)」。全面導入 AS9100 航太品質管理系統與ISO27001資訊安全管理系統，結合上緯集團之低碳永續材料，將業務核心精準對焦於三大前瞻領域。",
+  "logo": "1a2x6bnkyn",
+  "capital": "5億",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "長泓能源科技": {
+  "nameZh": "長泓能源科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "服務與營運"
+  ],
+  "apps": [
+   "農業",
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "彰化縣秀水鄉中山路133巷19號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.ch-battery.com.tw/",
+  "url104": "https://www.104.com.tw/company/bifl36g",
+  "jobCount": 3,
+  "profile": "長泓能源科技股份有限公司原為生產「氧化鋰鐵磷(LFPO)」電池芯之專業廠商，後為順應電 池市場趨勢，創造競爭優勢，於2022年12月轉型為設計及生產各類鋰電池模組，期藉創新之 技術、進而培養忠實顧客，形成長期穩定關係，達到不斷成長、永續經營之目標。",
+  "logo": "bifl36g",
+  "capital": "9億8000萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "鋐泰光電": {
+  "nameZh": "鋐泰光電股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區中園路168之1號六樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://etspacepower.com/home/",
+  "url104": "https://www.104.com.tw/company/1a2x6bn50z",
+  "jobCount": 8,
+  "profile": "台灣唯一商業化三接面太空級太陽能晶片（3-Junction Solar Cell）供應商，產品應用於衛星與無人機太陽能模組。",
+  "logo": "1a2x6bn50z",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "半導體製造業"
+ },
+ "大辰科技": {
+  "nameZh": "大辰科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "飛控導航",
+   "通訊資安"
+  ],
+  "apps": [
+   "農業",
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市汐止區新台五路一段79號20樓之13",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.locosystech.com/zh-TW/index/index.html",
+  "url104": "https://www.104.com.tw/company/cvv3p1c",
+  "jobCount": 4,
+  "profile": "LOCOSYS 大辰科技是全球領先的衛星定位模組設計與軟硬體製造商，專注於全球導航衛星系統（GNSS/RTK）、無線通信、嵌入式系統、工業/車載應用與航空電子等領域，持續為全球客戶提供高效能、高穩定性的解決方案。公司起源於台灣知名的資訊產業研究技術機構，二十多年來深耕軟硬體研發、演算法優化與系統整合，憑藉強大技術實力成為國際知名晶片廠的 α 級合格模組設計供應商。",
+  "logo": "cvv3p1c",
+  "capital": "1億",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "矽谷能源": {
+  "nameZh": "矽谷能源股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "基隆市安樂區武訓街55號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.seglenergy.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmhkw",
+  "jobCount": 11,
+  "profile": "登錄創櫃板的綠能公司，基隆唯一取得台電AFC調頻輔助服務建置許可的業者，專注鋰電池與儲能系統的研發、生產與整合。",
+  "logo": "1a2x6bmhkw",
+  "capital": "1億6000萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "芳興科技": {
+  "nameZh": "芳興科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市汐止區新台五路一段112號20樓(東方科學園區A棟)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.pyras.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bigji",
+  "jobCount": 17,
+  "profile": "以30年射頻技術為基礎的微波通訊公司（Pyras），參與國家太空計畫，發展自主低軌衛星通訊與智慧海洋應用，布局星空地海一體化通訊。",
+  "logo": "1a2x6bigji",
+  "capital": "5億",
+  "empNo": "85人",
+  "special": null,
+  "needsReview": false,
+  "industry": "通訊機械器材相關業"
+ },
+ "輝騰科技服務": {
+  "nameZh": "輝騰科技服務股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "高雄市橋頭區新東一街127號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.allswell.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnrfd",
+  "jobCount": 6,
+  "profile": "無人機自主營運方案新創（Allswell），提供即時飛行異常偵測、自動化機隊排程，以及基於邊緣AI的輸配電、防災與海洋巡檢應用。",
+  "logo": "1a2x6bnrfd",
+  "capital": "2億",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "立普思": {
+  "nameZh": "立普思股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市內湖區瑞光路100號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.lips-hci.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bjgpe",
+  "jobCount": 21,
+  "profile": "立普思專注於機器視覺與人機介面的完整方案，自行研發以Time-of-Flight、Stereo及Structured Light原理之深度攝影機，並且提供以深度和影像為基礎之軟體開發包，使得各式機器視覺應用利用公司提供之軟硬體方案，得以快速開發出各種應用，包含安全監控、汽車輔助系統、無人機、混合式擴增實境、機器人相關應用、3D掃描...。",
+  "logo": "1a2x6bjgpe",
+  "capital": "10億",
+  "empNo": "89人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "怡和國際能源": {
+  "nameZh": "怡和國際能源股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "高雄市新興區中正三路55號25樓之A",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.yihoenergy.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6blo78",
+  "jobCount": 11,
+  "profile": "怡和國際能源股份有限公司成立於2017年，2025年資本額已達6.5億。在集團各項優勢資源挹注與全球關注綠能之趨勢及未來環境的大量需求下，為順應發展專司此能源相關業務，怡和國際能源於再生能源市場及太陽光電業界發光、發熱，與怡和綠能、怡和光能科技和怡和綠電超商共同開創綠電與再生能源的多元新利基。",
+  "logo": "1a2x6blo78",
+  "capital": "6億5000萬元",
+  "empNo": "120人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "宸曜科技": {
+  "nameZh": "宸曜科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "國防軍事",
+   "農業"
+  ],
+  "flags": [],
+  "address": "新北市中和區建八路198號11樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.neousys-tech.com",
+  "url104": "https://www.104.com.tw/company/deesaxs",
+  "jobCount": 20,
+  "profile": "創立於2010年的強固型嵌入式電腦廠（6922），以Neousys自有品牌行銷全球，聚焦Edge AI運算平台，於美國、中國與德國設有據點。",
+  "logo": "deesaxs",
+  "capital": "2億7000萬元",
+  "empNo": "220人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "凌霄航太": {
+  "nameZh": "凌霄航太股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "台北市信義區台北市信義區信義路5段7號52樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aerosoarx.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bnr1b",
+  "jobCount": 8,
+  "profile": "成立於2026年、總部位於台灣的航太製造新創，結合台灣半導體與先進製造生態系，目標成為航太與安全基礎設施市場的韌性供應鏈夥伴。",
+  "logo": "1a2x6bnr1b",
+  "capital": "3億",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "徠碩企業": {
+  "nameZh": "徠碩企業有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台南市安定區嘉同里嘉榮路213巷96弄11號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.armaspeed.com",
+  "url104": "https://www.104.com.tw/company/wfi953s",
+  "jobCount": 12,
+  "profile": "碳纖維複合材料研發製造廠，專精高效能進氣系統、無人機機殼與精密葉槳，自主品牌ARMASPEED結合航太級工藝與流體力學，行銷歐美市場。",
+  "logo": "wfi953s",
+  "capital": "3900萬元",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "汽車及其零件製造業"
+ },
+ "韋福電子": {
+  "nameZh": "韋福電子有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市新莊區中正路657-10號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.wellforce.com.tw",
+  "url104": "https://www.104.com.tw/company/159z1psg",
+  "jobCount": 8,
+  "profile": "韋福電子成立於1994年，專注經營於各類電子產品客製線材的代工與研發，提供世界級服務。海內外客戶名列富比士全球前十大製造公司、全球百大創新機構、新能源應用領域領導者。韋福以「誠信為本、銳意創新、追求卓越、團結友愛」為企業宗旨，致力成為電子、車輛、能源、工業、安防的線材解決方案首選供應商，打造優質的傳輸線束，協助企業搶攻AI轉型商機。",
+  "logo": null,
+  "capital": "8500萬元",
+  "empNo": "200人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "棱合": {
+  "nameZh": "棱合股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市中壢區西園路128號",
+  "lat": null,
+  "lng": null,
+  "website": "https://arriscomposites.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bljfy",
+  "jobCount": 9,
+  "profile": "We’re reinventing manufacturing to deliver the products of the future 重塑製造業，帶來未來的產品 Founded in 2017, ARRIS is a global manufacturing technology leader headquartered in Berkeley, California. Our revolutionary design, mate",
+  "logo": "1a2x6bljfy",
+  "capital": "5億6600萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "敦吉檢測科技": {
+  "nameZh": "敦吉檢測科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台北市內湖區內湖路1段120巷8號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.audix.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bl3ve",
+  "jobCount": 18,
+  "profile": "敦吉集團營運總部位於內湖科技園區，總部人數約230人，集團人數超過2,000人。民國 69 年成立，90年掛牌上市，主要於電腦、通訊產品、光儲存產品、顯示器、電源系統等產業，提供電子零組件行銷服務、產品製造及產品驗證服務，並積極拓展汽車電子裝置零件事業。",
+  "logo": null,
+  "capital": "2億",
+  "empNo": "155人",
+  "special": null,
+  "needsReview": false,
+  "industry": "檢測技術服務"
+ },
+ "群立科技": {
+  "nameZh": "群立科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "公共安全與救災",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市大同區承德路三段287-2號3樓302室",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.geoforce.com.tw",
+  "url104": "https://www.104.com.tw/company/5zmzt1s",
+  "jobCount": 2,
+  "profile": "群立科技成立於民國91年3月，多年來致力於地理資訊系統(GIS)整合與開發，亦為國內第一家航測數值正射影像產製之民間業者、國內測繪業廠商，高解析航照影像生成、數值地形測製與空間資訊及影像處理，並提供全方位地理資訊解決方案，。",
+  "logo": "5zmzt1s",
+  "capital": "2660萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "德晉科技": {
+  "nameZh": "德晉科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "公共安全與救災",
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市三重區興德路123之1號8樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.skardin.com",
+  "url104": "https://www.104.com.tw/company/5oob0ui",
+  "jobCount": 1,
+  "profile": "前身為1982年成立的致振企業（Skardin），深耕電信與數位家庭平台逾40年的通訊影音設備製造商，正推動eSIM、AI算力與綠能的數位能源雙轉型。",
+  "logo": "5oob0ui",
+  "capital": "7億7900萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "阿比特電子科技": {
+  "nameZh": "阿比特電子科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市新店區建國路276號10樓（離捷運大坪林站步行5分鐘）",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.upbeattechtw.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6blhls",
+  "jobCount": 6,
+  "profile": "擁有多項世界專利的IC設計公司（Upbeat），開發極低功耗SoC、MEMS感測、超低功耗邊緣AI MCU與感測器中樞，讓智慧裝置在端側完成感測與AI推論。",
+  "logo": "1a2x6blhls",
+  "capital": "1億1412萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "台灣超微光學": {
+  "nameZh": "台灣超微光學股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市東區關新路27號9樓之5",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.otophotonics.com",
+  "url104": "https://www.104.com.tw/company/d3ip0h4",
+  "jobCount": 8,
+  "profile": "微型光譜儀公司，開發超高解析度、超高靈敏度與超小型光譜儀機種與核心技術，產品獲國際指標性客戶採用。",
+  "logo": "d3ip0h4",
+  "capital": "3億3390萬元",
+  "empNo": "80人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光學器材製造業"
+ },
+ "應美盛": {
+  "nameZh": "應美盛股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市東區展業一路9號1樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://invensense.tdk.com/",
+  "url104": "https://www.104.com.tw/company/cwxinaw",
+  "jobCount": 13,
+  "profile": "在AI人工智慧快速發展的時代，感測器結合AI是讓裝置「智慧感知一切」的關鍵—TDK InvenSense(應美盛)是全球領先的MEMS感測器解決方案供應商，自2003年成立以來，以超過20年的專利技術和創新，讓智慧裝置不僅能感知環境，更能透過AI即時理解與判斷。",
+  "logo": "cwxinaw",
+  "capital": "暫不提供",
+  "empNo": "300人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "立方航電": {
+  "nameZh": "立方航電有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區中山路二段366巷10號6樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.cubepilot.org",
+  "url104": "https://www.104.com.tw/company/1a2x6bmsyx",
+  "jobCount": 4,
+  "profile": "開源飛控生態系要角，CubePilot「The Cube」飛控模組是全球商用與工業無人機廣泛採用的自動駕駛核心，台灣是其研發製造基地。",
+  "logo": "1a2x6bmsyx",
+  "capital": "100萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "自動控制相關業"
+ },
+ "鑑智實相科技": {
+  "nameZh": "鑑智實相科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "半導體晶片",
+   "通訊資安"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "桃園市平鎮區中興路九龍段155號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.digiforen.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bm5ft",
+  "jobCount": 4,
+  "profile": "鑑識實相科技股份有限公司，於2020年核准設立，是一家以頂尖技術為核心之資安檢測與合規解決方案服務商，具備資安檢測及數位鑑識核心技術之檢測實驗室，協助企業從晶片產品及無人機產品之資安檢測，以及數位載體鑑識與事件調查，提供完整檢測服務。",
+  "logo": "1a2x6bm5ft",
+  "capital": "1億2814萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "海成未來": {
+  "nameZh": "海成未來股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市神岡區溪頭路52-2號",
+  "lat": null,
+  "lng": null,
+  "website": "https://ctt-metal.com/",
+  "url104": "https://www.104.com.tw/company/cs1ft00",
+  "jobCount": 7,
+  "profile": "高精密機構件製造商（CTT），服務航太、低軌衛星、AI機器人、工業相機與無人機產業，市場涵蓋美、德、瑞、日、以，具AS9100等國際認證。",
+  "logo": "cs1ft00",
+  "capital": "2000萬元",
+  "empNo": "35人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他金屬相關製造業"
+ },
+ "銘旺科技": {
+  "nameZh": "銘旺科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [
+   "農業",
+   "能源"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區高鐵站前西路一段286號3F-1",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.abonmax.com.tw",
+  "url104": "https://www.104.com.tw/company/5lv9aig",
+  "jobCount": 16,
+  "profile": "銘旺科技股份有限公司創立於1978年，總部位於台灣桃園，並於2000年正式掛牌上市（TW-2429）。隨著產業環境快速變遷與全球科技升級浪潮，銘旺科技洞察到單一製造模式已不足以因應未來競爭，因此積極啟動轉型升級，從專業製造邁向多元智慧應用整合領域。",
+  "logo": "5lv9aig",
+  "capital": "8億5500萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "永達綠能科技": {
+  "nameZh": "永達綠能科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "能源"
+  ],
+  "flags": [],
+  "address": "台中市北區台中市北區博館路88號5樓之1",
+  "lat": null,
+  "lng": null,
+  "website": "https://getc-power.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnqzm",
+  "jobCount": 6,
+  "profile": "永達綠能（GETC）為專業太陽光電EPC統包廠商，致力於提供從規劃設計、施工建造、測試驗收到維運管理之一站式服務。公司以「誠信」為經營核心，秉持無信則不立的精神，致力於在臺灣這片土地上推動綠能發展，協助企業在ESG與永續經營的目標上穩健前行。面對全球能源轉型與碳管理趨勢，永達持續協助企業進行最佳化能源布局，打造兼具環境、社會與經濟價值的永續解決方案。",
+  "logo": "1a2x6bnqzm",
+  "capital": "5億",
+  "empNo": "80人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "瑞鑑航太科技": {
+  "nameZh": "瑞鑑航太科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台南市歸仁區歸仁十三路一段6號6樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.bams-tech.com",
+  "url104": "https://www.104.com.tw/company/1a2x6blhlj",
+  "jobCount": 3,
+  "profile": "【關於 About Bellwether】 Bellwether Advanced Mobility Solutions（BAMS）為英國新創公司Bellwether Industries之關係企業，專注於低空經濟與先進空中移動的工程與系統解決方案。",
+  "logo": "1a2x6blhlj",
+  "capital": "1005萬元",
+  "empNo": "12人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "濰元科技": {
+  "nameZh": "濰元科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台中市大雅區科雅路6號",
+  "lat": null,
+  "lng": null,
+  "website": "https://foremostartech.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmx3r",
+  "jobCount": 2,
+  "profile": "❖ 通過國科會中部科學園區管理局核准設立。❖ 獲得 經濟部技術處 A+前瞻型開發計畫 https://www.moea.gov.tw/Mns/doit/news/News.aspx?kind=1&menu_id=13419&news_id=118747 濰元科技以便攜式之衛星相位陣列天線模組及系統開發為主軸，致力於衛星地面接收器之研發與製造。",
+  "logo": "1a2x6bmx3r",
+  "capital": "2億",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "愛盛科技": {
+  "nameZh": "愛盛科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市汐止區新台五路一段77號21樓之4",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.isentek.com",
+  "url104": "https://www.104.com.tw/company/ojcn9cg",
+  "jobCount": 2,
+  "profile": "成立於2011年的磁感測IC設計公司（iSentek），提供智能感應晶片及解決方案，總部位於新北市汐止遠東科技園區。",
+  "logo": "ojcn9cg",
+  "capital": "3億",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "台翔航太工業": {
+  "nameZh": "台翔航太工業股份有限公司",
+  "sources": [
+   "104",
+   "curated"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台北市中正區重慶南路一段143號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.taiwanaerospace.com.tw",
+  "url104": "https://www.104.com.tw/company/azt36o8",
+  "jobCount": 1,
+  "profile": "航太產業投資與零組件公司，國防產業發展協會航太會員。",
+  "logo": "azt36o8",
+  "capital": "13億",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空運輸輔助業"
+ },
+ "台灣豪威科技": {
+  "nameZh": "台灣豪威科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹市公道五路二段101號12樓之1",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.ovt.com",
+  "url104": "https://www.104.com.tw/company/d4fima8",
+  "jobCount": 17,
+  "profile": "豪威科技（OmniVision Technologies Inc.）成立於1995年，致力於設計和開發先進的數位成像技術和產品，從事影像感測器設計、研發和市場銷售。豪威科技為先進數位影像解決方案開發企業，其屢屢獲獎的 CMOS 影像技術能為現今許多消費和商業應用領域提供優異影像品質，服務範圍涵蓋行動電話、筆記型電腦、平板電腦和網路攝影機、數位相機、攝影機模組、安防監控、娛樂設備、汽車和醫療影像系統等領域，滿足日與俱增的人工智能與綠色能源",
+  "logo": "d4fima8",
+  "capital": "暫不提供",
+  "empNo": "270人",
+  "special": null,
+  "needsReview": false,
+  "industry": "半導體製造業"
+ },
+ "隴華電子": {
+  "nameZh": "隴華電子股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市松山區八德路三段32號15樓（敦北長城大樓）",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.lhsat.com/",
+  "url104": "https://www.104.com.tw/company/29hc1uo",
+  "jobCount": 10,
+  "profile": "隴華電子股份有限公司于1971年成立已50餘年，為台灣股票上市公司(股票代碼: 2424),2018年進入海事衛星通訊市場服務外籍船舶，為台灣唯一自建全球海事衛星波束覆蓋並自主運營的衛星營運商。2025年獲得數發部與NCC的核發衛星電台設置與公眾電信網路建置核准函成為台灣衛星通訊廠商，可服務台灣與全球客戶。",
+  "logo": "29hc1uo",
+  "capital": "5億8000萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "創泓科技": {
+  "nameZh": "創泓科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "台北市內湖區洲子街77號10樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.uniforce.com.tw/",
+  "url104": "https://www.104.com.tw/company/oeit780",
+  "jobCount": 13,
+  "profile": "創泓科技股份有限公司設立於民國100年2月1日，目前主要從事資安軟硬體、顧問服務、教育訓練、雲端、人工智慧應用與無人機等產品加值銷售。同時，透過人工智慧的引領，協助企業實現智慧化轉型，提高核心競爭力。在無人機領域，提供設計研發與巡檢服務與飛行教育一條龍服務，結合人工智慧提供更安全環境。",
+  "logo": "oeit780",
+  "capital": "2億",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "三芳科技": {
+  "nameZh": "三芳科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市汐止區大同路一段497號7樓之2",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.sunfun.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bis1f",
+  "jobCount": 3,
+  "profile": "公司創立於民國96年,於台灣台北及廣東一帶設有據點，主要從事CONN及FPC產品研發設計、生產及銷售的一貫化處理。提供符合不同需求之高品質產品給需要的客戶，以公開、透明、人性化進行專業管理，具有良好的發展潛力與前景。客戶市場遍及AI、無人機、機器人、醫療設備、電動車及3 C資通訊產業品 主要經營產品為運用於手機/平板/筆電/無人機及PC相關領域的軟板和連接器產品",
+  "logo": "1a2x6bis1f",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "全球動力科技": {
+  "nameZh": "全球動力科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "國防軍事",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台北市大安區復興南路一段368號5樓 (距捷運大安站約220公尺)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.bigxreality.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bjhcz",
+  "jobCount": 8,
+  "profile": "亞洲唯一 AI XR 創新產業模擬訓練品牌解決方案商 ✦ 透過 AI XR VR AR MR 先進技術研發自有品牌產品與國家級大型產業應用近 23 年。✦ 榮獲國家品牌玉山獎、國發會 XR 創星金點大賞、經濟部國家產業創新獎肯定。✦ 警政署、國防部、中油、台電、桃園機場等國內大型客戶，也拓銷至亞洲與歐美等地。✦ 位於大安區核心，捷運站步行約 4 分鐘，彈性上班工時。",
+  "logo": "1a2x6bjhcz",
+  "capital": "1億5051萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "欣榮材料": {
+  "nameZh": "欣榮材料股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市汐止區新台五路一段97號26樓之11",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.nrmaterial.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6blqyh",
+  "jobCount": 4,
+  "profile": "「欣榮材料」成立於2021年9月，股本新台幣 9.46 億元，營運總部及研發中心分別位於新北市汐止區遠雄U-Town大樓及宜蘭利澤產業園區。「欣榮材料」是一家專注碳素與高溫材料的公司，宜蘭廠主要生產品質優良，應用於半導體的高純度石墨塊材與粉體、石墨玻璃碳塗層、CVD碳化矽(SiC)塗層、熱分解碳滲入(CVI)，以及高溫鎢合金等產品。",
+  "logo": "1a2x6blqyh",
+  "capital": "9億4632萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "環輿科技": {
+  "nameZh": "環輿科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "農業",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市大安區忠孝東路四段310號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.egit.com.tw",
+  "url104": "https://www.104.com.tw/company/bjrl3ig",
+  "jobCount": 6,
+  "profile": "環輿科技股份有限公司( Environmental & GeoInformatic Technology Co. Ltd. )，源自中技社與中鼎工程集團（CTCI Group），是同時具備環境專業、GIS 技術、AI 分析與結合無人機(UAV)空拍之應用的跨領域科技團隊。",
+  "logo": "bjrl3ig",
+  "capital": "1000萬元",
+  "empNo": "70人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "暐誠國際驗證": {
+  "nameZh": "暐誠國際驗證股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸",
+   "能源"
+  ],
+  "flags": [],
+  "address": "台北市內湖區陽光街351號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.atclab.com.tw/",
+  "url104": "https://www.104.com.tw/company/ckkth20",
+  "jobCount": 21,
+  "profile": "暐誠身為安全、綠色與新能源節能減碳的實踐者出發。從ICT產品的安全檢測、節能能效到3C應用之小型鋰電池，再發展迄今的大型儲能與電動車之動力電池，擴大設備與場地。著眼於發展新能源產品之測試能力與全世界認證一條龍服務。有綠能的開源，必有能源的節流，二者相輔相成。",
+  "logo": "ckkth20",
+  "capital": "1億5000萬元",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "檢測技術服務"
+ },
+ "彤晟科技": {
+  "nameZh": "彤晟科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區平河里中正路736號16樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.technexion.com",
+  "url104": "https://www.104.com.tw/company/crrrdsg",
+  "jobCount": 22,
+  "profile": "【彤晟科技】成立於 2001 年，致力於嵌入式計算、機器視覺和嵌入式系統解決方案。多年來不斷投入研發和生產技術，以最先進的技術和設備為 ODM / OEM 工廠自動化和過程控制、機器視覺、邊緣運算、多媒體應用和醫療輔助設備等各項層面提供解決方案，並廣泛應用於工控、智慧交通、無人機、安全、自動化等領域。",
+  "logo": "crrrdsg",
+  "capital": "1億2000萬元",
+  "empNo": "120人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "中陽實業": {
+  "nameZh": "中陽實業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市潭子區昌平路三段178巷2號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chungyang.com.tw/",
+  "url104": "https://www.104.com.tw/company/ngsxnkw",
+  "jobCount": 5,
+  "profile": "中陽實業成立於 1970 年，已邁向 65 週年歷史，以生產無人機(UAV)、模型飛機、汽車、船之搖控引擎、二行程引擎及從事日本原廠汽車引擎、半導體相關、伺服機櫃、機器人相關等零件專業代工為主要業務，為中部地區主要的精密加工專業製造廠商，產品以外銷為主，包括日本、美國、德國、瑞士等。",
+  "logo": "ngsxnkw",
+  "capital": "1億",
+  "empNo": "125人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他金屬相關製造業"
+ },
+ "聲億科技": {
+  "nameZh": "聲億科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市新莊區五權一路13號3樓之2",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.shengyih.com.tw/",
+  "url104": "https://www.104.com.tw/company/aj68v4w",
+  "jobCount": 9,
+  "profile": "聲億科技成立於1988年，以連接器、充電器模具之設計製造技術起家。 三十多年來，秉著對產品的創新研發、品質要求以及市場需求，不斷的全方位擴展事業版圖，現為專業OEM/ODM代工大廠，專門為客戶代工各式各樣的消費性電子產品、電腦電競周邊產品、手機周邊產品、車用周邊產品、通訊相關產品、無人機周邊及小家電產品，可以從模具設計、單&雙色塑膠射出、五金連續沖壓件、連接器、線材組裝、線束的設計開發生產代工來滿足客戶需求，近年來積極因應工業升級而大量",
+  "logo": "aj68v4w",
+  "capital": "7000萬元",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "聖森雲端科技": {
+  "nameZh": "聖森雲端科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市中山區民權西路70號10樓之1",
+  "lat": null,
+  "lng": null,
+  "website": "https://sheng-sen.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bjdij",
+  "jobCount": 7,
+  "profile": "成立於2014年的資訊系統公司，員工逾百人，專注系統規劃、開發與維運，發展AI、電子商務與企業解決方案。",
+  "logo": "1a2x6bjdij",
+  "capital": "7000萬元",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "允和科技": {
+  "nameZh": "允和科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "高雄市前鎮區建基街9號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.yunhetech.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bm5n0",
+  "jobCount": 15,
+  "profile": "2021年成立於高雄的VR訓練方案商，為消防、軍警與公共安全領域打造安全、可量化且高度擬真的訓練環境。",
+  "logo": "1a2x6bm5n0",
+  "capital": "暫不提供",
+  "empNo": "60人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "御天航太科技": {
+  "nameZh": "御天航太科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區高鐵南路二段２６７號１１樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnpq0",
+  "jobCount": 5,
+  "profile": "無人機設計開發與技術服務新創，具自主核心專利，深耕機構設計、客製化研發，投入無人機航電、通訊與影像技術開發。",
+  "logo": null,
+  "capital": "暫不提供",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "速連通訊": {
+  "nameZh": "速連通訊股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台北市內湖區瑞湖街199號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.sparklan.com",
+  "url104": "https://www.104.com.tw/company/10vxz9ds",
+  "jobCount": 5,
+  "profile": "成立於2002年、正基子公司的無線網路方案供應商，投入Wi-Fi 6/6e/7、SiP、SoM與5G RedCap技術，拓展AIoT應用場景。",
+  "logo": "10vxz9ds",
+  "capital": "3億",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "通訊機械器材相關業"
+ },
+ "星協系統科技": {
+  "nameZh": "星協系統科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "飛控導航",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市土城區青雲路55號",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.wpc.com.tw",
+  "url104": "https://www.104.com.tw/company/bjclnrc",
+  "jobCount": 6,
+  "profile": "精密量測與自動化控制系統商，近年打造自主演算法的無人機飛控平台，服務半導體、國防、航太與醫療產業。",
+  "logo": "bjclnrc",
+  "capital": "1000萬元",
+  "empNo": "13人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "泰砡電能": {
+  "nameZh": "泰砡電能股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市土城區新洲路 100 號10樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.top-unum.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6blkrw",
+  "jobCount": 4,
+  "profile": "電源供應器與充電器廠，產品涵蓋E-bike、微型摩托車與無人機充電器，並提供工控整合服務與零件銷售。",
+  "logo": "1a2x6blkrw",
+  "capital": "3000萬元",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "易芯科技": {
+  "nameZh": "易芯科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市復興三路二段168號6樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.ecoics.com",
+  "url104": "https://www.104.com.tw/company/odn0zv4",
+  "jobCount": 8,
+  "profile": "易芯科技股份有限公司成立於2010年，是專業動力鋰電池製造商。主要電池產品包括1.電動自行車鋰電池(E-Bike Battery) 2.電動機車鋰電池(E-Motor Battery) 3. 無人搬運車鋰電池(AGV) 4.電動工具/農機具鋰電池 5.儲能系統鋰電池(ESS) 6.不斷電系統鋰電池(UPS)7.無人機鋰電池 電池產品外銷歐美20餘國，通過CE安全認證，與國內外知名品牌皆有合作。",
+  "logo": "odn0zv4",
+  "capital": "暫不提供",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "廣運科技": {
+  "nameZh": "廣運科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "宜蘭縣宜蘭市宜興路三段120巷3號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.mks-servo.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bmssr",
+  "jobCount": 6,
+  "profile": "電子零組件廠，產品近年大量應用於無人機系統（UAS），以品質與技術為導向服務國內外客戶。",
+  "logo": "1a2x6bmssr",
+  "capital": "1200萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "池安量子資安": {
+  "nameZh": "池安量子資安股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "台北市大安區金山南路2段200號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.chelpis.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bmnma",
+  "jobCount": 5,
+  "profile": "成立於2017年的後量子密碼（PQC）公司（Chelpis），亞洲唯一深度參與NIST PQC標準制定的技術團隊，技術通過NIST CAVP驗證，2023年成立亞洲首座量子安全遷移中心。",
+  "logo": "1a2x6bmnma",
+  "capital": "2億5000萬元",
+  "empNo": "25人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "創威訊科技": {
+  "nameZh": "創威訊科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市中和區建八路202號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.swart.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmtij",
+  "jobCount": 8,
+  "profile": "2023年由台大電信所教授主導成立、前身為經濟部價值創造計畫團隊，專精高增益、高指向性大型天線陣列系統，應用於5G/6G毫米波、高低軌衛星與無人機通訊。",
+  "logo": "1a2x6bmtij",
+  "capital": "3億",
+  "empNo": "24人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "威凜科技": {
+  "nameZh": "威凜科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市松山區南京東路四段2號4樓(Taiwan Tech Arena)",
+  "lat": null,
+  "lng": null,
+  "website": "https://valtec.ai/",
+  "url104": "https://www.104.com.tw/company/1a2x6bn2p5",
+  "jobCount": 10,
+  "profile": "Valtec 是一家人工智慧無人機技術公司，專為商業漁業領域打造，以精確定位鮪魚等高價值魚類（2023 年市場價值為 42B 美元）。透過將 21 世紀最具創新力的公司的專業知識、技術和商業模式引入商業捕魚領域，Valtec 正在改變魚類捕撈方式，使其變得更具永續性與高效能。",
+  "logo": "1a2x6bn2p5",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "文浩實業": {
+  "nameZh": "文浩實業有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "能源"
+  ],
+  "flags": [],
+  "address": "台北市內湖區洲子街102號3樓(114)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.tdk-winhouse.com.tw/",
+  "url104": "https://www.104.com.tw/company/a998po0",
+  "jobCount": 4,
+  "profile": "Win-House Group 文浩集團｜Your best partner! 成立於 1987 年，是專注於電子零件代理與技術服務的專業通路商，長期深耕被動元件、感測器、RF 元件、光電元件、電源供應器及各類電子零組件市場。",
+  "logo": "a998po0",
+  "capital": "4500萬元",
+  "empNo": "100人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "台灣創通聯達智能技術": {
+  "nameZh": "台灣創通聯達智能技術有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台北市南港區昆陽街16號11樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.thundercomm.com",
+  "url104": "https://www.104.com.tw/company/1a2x6blgfx",
+  "jobCount": 3,
+  "profile": "高通（Qualcomm）與中科創達2016年合資成立的智能硬件方案商（Thundercomm），為物聯網OEM/ODM廠商與開發者提供產品、技術及一站式服務。",
+  "logo": "1a2x6blgfx",
+  "capital": "6000萬元",
+  "empNo": "80人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "伯堅": {
+  "nameZh": "伯堅股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市龜山區大華村文化東路25號(近林口長庚醫院)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.burgeon.com.tw",
+  "url104": "https://www.104.com.tw/company/9kntow8",
+  "jobCount": 5,
+  "profile": "伯堅公司創於1979年，憑藉著深厚產業根基、敏銳科技洞察與不懈創新精神，穩踞台灣電子產業的重要地位。身為資深電子儀表設備代理商，伯堅不僅代理全球頂尖品牌，更透過策略聯盟與旗下公司的協同合作，成功轉型為集「智慧製造解決方案」與「前瞻技術服務」一體的綜合型企業，為客戶從研發到量產的全價值鏈注入強大動能。",
+  "logo": "9kntow8",
+  "capital": "6000萬元",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "印度商盛世科技光電台灣分": {
+  "nameZh": "印度商盛世科技光電有限公司臺灣分公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市三重區重新路4段97號28樓之2",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bmmol",
+  "jobCount": 2,
+  "profile": "盛世科技股份有限公司(Sensetek Optical Private Limited)是一家專注於CCM攝像頭模組的研發、製造、銷售、服務，並向新器件研發、新產品應用、軟體演算法開發、產品系統解決方案、影像演算法調測等發展的多位一體的技術型企業。公司於印度德里有設立智慧製造基地和服務機構，擁有最先進的攝像頭模組封測生產設備、自動化智慧生產線及配套支援設施和系統，並獲得政府及客戶的一致認可。",
+  "logo": null,
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "中光電創境": {
+  "nameZh": "中光電創境股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市新店區北新路三段225號15樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://coreality-inc.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmfys",
+  "jobCount": 11,
+  "profile": "成立於2019年的中強光電集團新創（CRI），從AR/MR智慧眼鏡商業驗證延伸至SoM系統模組，為集團提供核心技術。",
+  "logo": "1a2x6bmfys",
+  "capital": "1億2000萬元",
+  "empNo": "39人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "鴻軒科技": {
+  "nameZh": "鴻軒科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市創新二路1號3樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.siliconautotech.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bmgtl",
+  "jobCount": 28,
+  "profile": "鴻軒科技（SiliconAuto）專業半導體 IC 設計公司，專注於為各類型移動載具提供技術核心 —— 涵蓋汽車、卡車、二輪車、機器人與無人機。成立於 2023 年，為鴻海科技集團（台灣證券交易所代號：2317）與 Stellantis 共同成立之合資公司，公司註冊於荷蘭，並於台灣與印度設有研發團隊。",
+  "logo": "1a2x6bmgtl",
+  "capital": "暫不提供",
+  "empNo": "103人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "首象科技": {
+  "nameZh": "首象科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹市慈雲路118號6樓之7",
+  "lat": null,
+  "lng": null,
+  "website": "https://braineulink.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bno85",
+  "jobCount": 15,
+  "profile": "腦機介面新創（BraineuLink），開發非侵入式EEG腦機介面晶片並結合AI解讀使用者意圖，目標應用於機器人、無人機與AR/VR裝置操控。",
+  "logo": null,
+  "capital": "30萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "高首農業科技": {
+  "nameZh": "高首農業科技有限公司(籌備處)",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "嘉義縣溪口鄉",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.facebook.com/groups/408795269708299/?ref=share",
+  "url104": "https://www.104.com.tw/company/1a2x6bm64k",
+  "jobCount": 0,
+  "profile": "籌備人葉先生家裡從小就是務農的家庭，深知農民朋友在工作時候的辛勞，尤其農作物在施肥與病蟲害防治的過程，更花費了不少勞力，自從一次的機遇下接觸了植保無人機，在使用之後發現不僅減少勞力付出，而施肥與病蟲害防治的成果也同樣顯著，為此葉先生決定把植保無人機推薦給更多的農友，減輕農民朋友的勞力負擔，於是成立了高首農業科技有限公司，經營植保無人機的銷售與維修。植保無人機銷售及維修",
+  "logo": null,
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "農業及園藝機械製造修配業"
+ },
+ "翔立光科技": {
+  "nameZh": "翔立光科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市中和區板南路492號5樓之8",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.elgens.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bk48i",
+  "jobCount": 3,
+  "profile": "光電與影像設備公司，投入光學酬載與影像傳輸相關產品開發。",
+  "logo": "1a2x6bk48i",
+  "capital": "4820萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "信統科技": {
+  "nameZh": "信統科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹縣竹北市台元二街10號3樓之3",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.sysnix.com.tw",
+  "url104": "https://www.104.com.tw/company/13k132xc",
+  "jobCount": 2,
+  "profile": "成立於1993年、研發出台灣首台光學鏡頭MTF量測設備的光電檢測設備廠，產品應用於光學測試、自動化檢測與影像模組製程，客戶遍及全球主要工業國家。",
+  "logo": "13k132xc",
+  "capital": "2990萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "艾思通科技": {
+  "nameZh": "艾思通科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區橋和路120號11樓之6",
+  "lat": null,
+  "lng": null,
+  "website": "https://astrogate.com/zh-tw/home",
+  "url104": "https://www.104.com.tw/company/1a2x6bl5rk",
+  "jobCount": 2,
+  "profile": "艾思通科技股份有限公司創立於2019年，致力於多媒體影音的無線傳輸技術研發與產品設計，以及各項影音設備（例如，觸控大屏、電視、視訊會議設備...等）內建相關應用軟體與系統整合；主要產品應用包括無線投影、無線視訊、以及無線會議室。2025年後展開與AR智慧眼鏡與無人機的技術整合，並將AI應用導入未來產品新功能。",
+  "logo": "1a2x6bl5rk",
+  "capital": "1億",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "銳隆光電": {
+  "nameZh": "銳隆光電有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "苗栗縣後龍鎮槺榔二街279號(苗栗高鐵特區)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.rlo-vip.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bk94k",
+  "jobCount": 51,
+  "profile": "銳隆集團正式進駐苗栗高鐵，準備2022全力衝刺半導體材料。全球半導體投資總額創新高。台灣半導體產業投資創新高。台灣廣設半導體學院培訓人材。銳隆光電，從面板材料跨足半導體材料，耕耘2年多，也差不多開始放量收割期。從矽晶圓到第三代半導體供應鏈，銳隆光電不缺席，客戶除了台灣供應鏈，銳隆也是日本重要產業鏈一員。銳隆光電於苗栗投資2億,擴大光電材料與矽晶圓鍍膜生產。",
+  "logo": "1a2x6bk94k",
+  "capital": "2300萬元",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他半導體相關業"
+ },
+ "羅比芯科技": {
+  "nameZh": "羅比芯科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "半導體晶片",
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市大安區基隆路四段43號(台科大 國際大樓1105室)",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.robichip.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bnk3q",
+  "jobCount": 8,
+  "profile": "智慧機器人驅動晶片新創（RobiChip），聚焦Robot SoC、GaN功率元件整合、馬達控制與關節模組，應用於人形機器人、無人機與智慧自動化設備。",
+  "logo": "1a2x6bnk3q",
+  "capital": "2100萬元",
+  "empNo": "12人",
+  "special": null,
+  "needsReview": false,
+  "industry": "IC設計相關業"
+ },
+ "新馳科技": {
+  "nameZh": "新馳科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市信義區市民大道六段288號10樓之9",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.gallopwave.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bkjds",
+  "jobCount": 15,
+  "profile": "由曾任職全球知名企業的無人載具專業團隊創立，技術聚焦AI視覺定位導航、抗干擾抗欺騙與自主飛行。",
+  "logo": "1a2x6bkjds",
+  "capital": "5000萬元",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "神盾衛星": {
+  "nameZh": "神盾衛星股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "農業",
+   "物流運輸",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台北市內湖區內湖路一段300號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.creative5.io",
+  "url104": "https://www.104.com.tw/company/1a2x6bknr7",
+  "jobCount": 2,
+  "profile": "成立於2017年的混合式衛星物聯網公司（Creative5），整合地面與非地面網路、GEO/LEO多軌道衛星與雲端平台，讓設備在偏遠或無網路環境穩定連線。",
+  "logo": "1a2x6bknr7",
+  "capital": "7415萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "格緯旭風能": {
+  "nameZh": "格緯旭風能股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "能源"
+  ],
+  "flags": [],
+  "address": "苗栗縣苑裡鎮苑港10-78號",
+  "lat": null,
+  "lng": null,
+  "website": "https://greenwish.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bn599",
+  "jobCount": 1,
+  "profile": "風電訓練與工程服務商，提供GWO國際風電安全訓練、客製化課程，以及離岸與陸域風電工程服務。",
+  "logo": "1a2x6bn599",
+  "capital": "1200萬元",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他營造業"
+ },
+ "台灣風能訓練": {
+  "nameZh": "臺灣風能訓練股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "台中市清水區北堤路1之10號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.tiwtc.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bkjvn",
+  "jobCount": 2,
+  "profile": "隨著綠色能源逐漸受到重視，其中離岸風電技術在歐洲已迎接快速成長期，技術亦逐漸自歐洲向外擴散。臺灣政府亦將離岸風電的發展納入重要政策目標，期許導入離岸風電產業為臺灣帶來更多乾淨的能源，並促進離岸風電產業在國內的發展及取得離岸風電的專業技術，創造更多就業機會。",
+  "logo": "1a2x6bkjvn",
+  "capital": "1億",
+  "empNo": "18人",
+  "special": null,
+  "needsReview": false,
+  "industry": "自然科學研發業"
+ },
+ "振禾工程科技顧問": {
+  "nameZh": "振禾工程科技顧問股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市新店區安興路109號2樓之3",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.facebook.com/ZHENHO2017",
+  "url104": "https://www.104.com.tw/company/1a2x6bn5ow",
+  "jobCount": 4,
+  "profile": "1）水土保持工程規劃設計 2）土木工程規劃設計 3）景觀工程 4）現地工務服務 5）防災工程規劃設計 6)土地評估 7)3D實景地形建模 8)無人機應用 9)工程測量",
+  "logo": "1a2x6bn5ow",
+  "capital": "400萬元",
+  "empNo": "8人",
+  "special": null,
+  "needsReview": false,
+  "industry": "土木工程業"
+ },
+ "揚毅國際": {
+  "nameZh": "揚毅國際有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市復興三路二段168號6樓之1",
+  "lat": null,
+  "lng": null,
+  "website": "https://pantherun.com",
+  "url104": "https://www.104.com.tw/company/1a2x6blsvg",
+  "jobCount": 14,
+  "profile": "Who we are: Pantherun is a cyber security and data communications company that has designed a One-of-a-kind Chip and software based Intellectual Property for secure Ethernet Communication using Artificial Intelligence te",
+  "logo": "1a2x6blsvg",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "眾象諮詢": {
+  "nameZh": "眾象諮詢有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市松山區南京東路四段51-2號7樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hanhsiho.com",
+  "url104": "https://www.104.com.tw/company/1a2x6blj25",
+  "jobCount": 2,
+  "profile": "BIM顧問公司，2020年於台灣設點，提供建築資訊模型標準制定、導入、教育訓練與建模服務，曾獲台灣數位應用創新獎等獎項。",
+  "logo": "1a2x6blj25",
+  "capital": "500萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "專門設計相關業"
+ },
+ "蜘蛛視覺感測": {
+  "nameZh": "蜘蛛視覺感測有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "服務與營運"
+  ],
+  "apps": [
+   "農業",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市新莊區中正路708之6號11樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.zenadrone.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bn9i9",
+  "jobCount": 29,
+  "profile": "Drones as service. ZenaDrone (Nasdaq: ZENA) 致力於為各行各業的企業和個人提供創新且可靠的無人機解決方案。ZenaDrone 於 2020年在美國由Shaun Passley博士創立，他認識到無人機在各行各業中革命性潛力。最初，公司專注於提供航拍和攝影無人機服務，以及為建築和房地產行業提供檢查和測繪服務。",
+  "logo": "1a2x6bn9i9",
+  "capital": "500萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "佳測新技": {
+  "nameZh": "佳測新技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新竹縣湖口鄉成功路335巷29弄8號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.xtestek.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bljjd",
+  "jobCount": 3,
+  "profile": "佳測新技股份有限公司位於湖口成功路，距火車站步行只要10分鐘。主要團隊成員皆來自於自動化測試業界以及物聯網業界的精英所組成，主要成員在業界資歷平均都超過20年！佳測新技是第三代半導體量測領域的技術領航者。",
+  "logo": "1a2x6bljjd",
+  "capital": "1億3000萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "決勝科技": {
+  "nameZh": "決勝科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "服務與營運"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區中壢",
+  "lat": null,
+  "lng": null,
+  "website": "http://victorextech.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnl0l",
+  "jobCount": 3,
+  "profile": "無人機雲台系統公司，開發熱成像與雙光鏡頭的超穩定雲台及AI影像分析技術，應用於無人機巡檢、工業能源場域、消防搜救與國防偵蒐。",
+  "logo": null,
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "光學器材製造業"
+ },
+ "台控科技": {
+  "nameZh": "台控科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市環北路三段173號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.atschiller.com",
+  "url104": "https://www.104.com.tw/company/5vx7em8",
+  "jobCount": 6,
+  "profile": "美商RTX集團旗下Advanced Thermal Sciences的台灣分公司，母集團為美國主要國防承包商，產品涵蓋航空發動機、防空系統、衛星與無人機。",
+  "logo": "5vx7em8",
+  "capital": "暫不提供",
+  "empNo": "50人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電力機械器材製造修配業"
+ },
+ "築本科技": {
+  "nameZh": "築本科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市松山區民權東路三段181號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://zenithbim.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bjulm",
+  "jobCount": 5,
+  "profile": "BIM與數位工程整合顧問（ZenithBIM），結合UAV、LiDAR、FM、AR/VR與AI技術，打造以數據為核心的數位工程流程。",
+  "logo": "1a2x6bjulm",
+  "capital": "2000萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "蒙斯特農研": {
+  "nameZh": "蒙斯特農研有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "台北市中正區汀州路2段285號（1樓）",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.msagt.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bl3fg",
+  "jobCount": 1,
+  "profile": "2013年成立於台北的環境維護技術公司，提供樹木植栽管理與病蟲害防治服務，投入紅火蟻與樹木褐根病調查及偵測技術研發。",
+  "logo": "1a2x6bl3fg",
+  "capital": "100萬元",
+  "empNo": "7人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他專業／科學及技術業"
+ },
+ "迅聯光電": {
+  "nameZh": "迅聯光電有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "飛控導航",
+   "服務與營運"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "公共安全與救災",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市內湖區陽光街321巷56號4樓之7",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.linkfast.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bi7t5",
+  "jobCount": 2,
+  "profile": "深耕感測技術二十年的數位孿生方案商，引進先進感測技術，將實體世界轉化為高精度、可量化的數位模型。",
+  "logo": "1a2x6bi7t5",
+  "capital": "1500萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "海涯國際": {
+  "nameZh": "海涯國際有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "國防軍事",
+   "能源"
+  ],
+  "flags": [],
+  "address": "高雄市鼓山區青雲街122號2樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hyarks.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnhbm",
+  "jobCount": 2,
+  "profile": "台灣無人水面載具（USV）公司（Hyarks），開發具DP3能力的長航時無人船H-1，服務離岸風電、國防與漁業產業。",
+  "logo": "1a2x6bnhbm",
+  "capital": "50萬元",
+  "empNo": "6人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電力供應業"
+ },
+ "明愷國際": {
+  "nameZh": "明愷國際有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市泰山區貴鳳街3號6F",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.mykia.com.tw",
+  "url104": "https://www.104.com.tw/company/7me6o34",
+  "jobCount": 6,
+  "profile": "始於1998年，從通訊設備代理商發展為鋰電池模組設計製造商，產品涵蓋新能源、消費電子與電動自行車領域。",
+  "logo": "7me6o34",
+  "capital": "2900萬元",
+  "empNo": "22人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "芝程科技": {
+  "nameZh": "芝程科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市林口區文化一路一段258號4樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.micro-mve.com",
+  "url104": "https://www.104.com.tw/company/dehlu14",
+  "jobCount": 9,
+  "profile": "2010年成立的射頻研發設備商（MVE），供應WiFi、衛星通訊、GPS、5G與無人機領域的射頻研發測試設備，並跨入車用測試市場。",
+  "logo": "dehlu14",
+  "capital": "1000萬元",
+  "empNo": "25人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "群瞻科技": {
+  "nameZh": "群瞻科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區板南路663號3樓",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/12pgs2s8",
+  "jobCount": 2,
+  "profile": "電子事業部--電子產品之PCB Layout設計, PCB製作(樣品/量產); PCBA加工(樣品/量產) 半導體事業部--IC測試載具之Layout設計、生產(probe card,load board,socket board,Dut board) 驗証量測--TDR阻抗測試,PCB 板彎翹水平量測",
+  "logo": "12pgs2s8",
+  "capital": "1500萬元",
+  "empNo": "25人",
+  "special": null,
+  "needsReview": false,
+  "industry": "半導體製造業"
+ },
+ "嘉普科技": {
+  "nameZh": "嘉普科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹縣湖口鄉八德路二段656號",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.advancedenergysolution.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bk5ll",
+  "jobCount": 26,
+  "profile": "嘉普科技為 AES（Advanced Energy Solution）集團旗下企業，專注於鋰電池模組、電池管理系統（BMS）及新能源相關產品之研發、製造與銷售。以台灣為核心研發基地，結合全球供應鏈與製造資源，提供客戶完整的電池模組解決方案。公司主要服務歐美及日本市場，產品廣泛應用於電動自行車、電動車、伺服器備援電源及儲能設備等領域，並已成為全球重要鋰電池模組供應商之一。",
+  "logo": "1a2x6bk5ll",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "新加坡商兆普台灣分": {
+  "nameZh": "新加坡商兆普有限公司台灣分公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹縣湖口鄉八德路二段656號5樓",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.advancedenergysolution.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6blbq9",
+  "jobCount": 51,
+  "profile": "新加坡商兆普科技為 AES（Advanced Energy Solution）集團旗下企業，專注於鋰電池模組、電池管理系統（BMS）及新能源相關產品之研發、製造與銷售。以台灣為核心研發基地，結合全球供應鏈與製造資源，提供客戶完整的電池模組解決方案。公司主要服務歐美及日本市場，產品廣泛應用於電動自行車、電動車、伺服器備援電源及儲能設備等領域，並已成為全球重要鋰電池模組供應商之一。",
+  "logo": "1a2x6blbq9",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "捷倉自動化": {
+  "nameZh": "捷倉自動化股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "高雄市左營區文自路846號1樓",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.vicstore-auto.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bl98e",
+  "jobCount": 4,
+  "profile": "旭貿企業投資的無人機自動化公司，投入倉儲與無人機自動化應用。",
+  "logo": null,
+  "capital": "1000萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "東逸電子": {
+  "nameZh": "東逸電子股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市三重區重新路五段609巷16號6樓之15",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.eastekcorp.com.tw",
+  "url104": "https://www.104.com.tw/company/b66qz3s",
+  "jobCount": 3,
+  "profile": "成立於2009年的電子零件通路商，專注被動元件與連接器，客戶涵蓋AI伺服器、工控、電動車、光通訊與無人機應用。",
+  "logo": "b66qz3s",
+  "capital": "1200萬元",
+  "empNo": "11人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "軸能科技": {
+  "nameZh": "軸能科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市新莊區新北大道三段210號8樓(寰宇1號)",
+  "lat": null,
+  "lng": null,
+  "website": "https://s-insight.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmopo",
+  "jobCount": 6,
+  "profile": "軸能科技股份有限公司於2018年創立，提供客製化能源測試平台, 協助材料廠商進行各種不同設計的鋰離子電池測試與驗證，並將具優勢之材料進行市場的連結與推廣，驗證案例包含 300WH/KG 高能量密度電池驗證, NMC811 高鎳體系驗證, 高循環矽碳材料驗證…等各種體系搭配。",
+  "logo": "1a2x6bmopo",
+  "capital": "1000萬元",
+  "empNo": "9人",
+  "special": null,
+  "needsReview": false,
+  "industry": "化學原料及其製品批發業"
+ },
+ "竣豪電子": {
+  "nameZh": "竣豪電子股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市三重區重新路五段609巷16號6樓之2(241)",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.superior-tech.com.tw",
+  "url104": "https://www.104.com.tw/company/7ls9m80",
+  "jobCount": 6,
+  "profile": "竣豪電子成立於西元1998年，創立以來即秉持創新永續經營的原則，快速開發高品質並同時具有價格競爭優勢的產品。研發並生產能相容於板內 PCIe Genx 及 USB Genx 系列之高頻高速訊號傳輸的連接器。",
+  "logo": "7ls9m80",
+  "capital": "3000萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "中保防災科技": {
+  "nameZh": "中保防災科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台北市南港區經貿二路135號10樓(F棟)",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.dps.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bjxbo",
+  "jobCount": 5,
+  "profile": "公司簡介 中保防災科技為中興保全集團子公司，針對台灣天然災害以及人為災害，提出解決方案。因應電動車數量快速成長，起火事件頻傳，中保防災為台灣首創租賃型防火毯，服務客戶包含各大車廠、百貨公司、醫院，租期內使用後免費換新，並提供24小時保全系統連線服務。【保全業第一品牌】 中保科是台灣保全產業的開創者，也是市場的領導者！",
+  "logo": "1a2x6bjxbo",
+  "capital": "3080萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他專業╱科學及技術業"
+ },
+ "宇鈞先端材料": {
+  "nameZh": "宇鈞先端材料股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市林口區文化二路一段266號9樓之5之6",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.ugam.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bjjwb",
+  "jobCount": 1,
+  "profile": "光學薄膜應用商，產品從戶外運動、重機、無人機到醫療周邊，行銷歐亞多國市場。",
+  "logo": "1a2x6bjjwb",
+  "capital": "600萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "育樂用品製造業"
+ },
+ "弈方集思": {
+  "nameZh": "弈方集思股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市土城區三民路2號6樓之6",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnfwt",
+  "jobCount": 11,
+  "profile": "集合航空工程、資通訊與自動控制專家的無人機方案商，提供從設計開發到製造交付的一站式解決方案。",
+  "logo": null,
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "青禾智農": {
+  "nameZh": "青禾智農股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "彰化縣埤頭鄉",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.wisdomfarmer.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnhzu",
+  "jobCount": 0,
+  "profile": "2021年成立於彰化的農業無人機公司，提供農藥肥料空中噴灑、飛手考照輔導與機隊調度管理，投入解決農村缺工與高齡化問題。",
+  "logo": "1a2x6bnhzu",
+  "capital": "400萬元",
+  "empNo": "8人",
+  "special": null,
+  "needsReview": false,
+  "industry": "農業及園藝機械製造修配業"
+ },
+ "宇研共創科技": {
+  "nameZh": "宇研共創科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市新興區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.uni-co.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmlhb",
+  "jobCount": 0,
+  "profile": "成立於2023年的無人載具系統整合公司，以客戶需求為導向投入無人機產品創新與客製化解決方案。",
+  "logo": "1a2x6bmlhb",
+  "capital": "3億",
+  "empNo": "12人",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "飛貓科技": {
+  "nameZh": "飛貓科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "宜蘭縣三星鄉",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.feimaotec.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bni78",
+  "jobCount": 0,
+  "profile": "2021年成立的無人載具研發新創，開發MIT自製無人機與教育訓練輔具，並參與政府專案與產學合作。",
+  "logo": "1a2x6bni78",
+  "capital": "35萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "矽品精密工業新竹分": {
+  "nameZh": "矽品精密工業股份有限公司新竹分公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "新竹縣寶山鄉",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.spil.com.tw",
+  "url104": "https://www.104.com.tw/company/7ervv14",
+  "jobCount": 0,
+  "profile": "全球半導體封測大廠矽品精密的新竹據點，提供IC封裝與測試服務。",
+  "logo": "7ervv14",
+  "capital": "442億",
+  "empNo": "25000人",
+  "special": null,
+  "needsReview": false,
+  "industry": "半導體製造業"
+ },
+ "彥宣智能科技": {
+  "nameZh": "彥宣智能科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "反制C-UAS",
+   "整機製造",
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台北市內湖區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.flyadvisor.xyz/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmx14",
+  "jobCount": 0,
+  "profile": "鑑於無人機科技與應用發展日新月異，彥宣智能科技成立於 2019 年 9 月，將「飛航營運」與「資通訊科技」跨領域整合，以國外低高度空域飛航營運概念（ConOps, Concept of Operations）為核心，發展低高度空域飛航營運管理解決方案，提供無人機操作人、無人機製造商、無人機智慧應用營運商，及無人機空中交通管理（UTM, UAS Traffic Management）等低高度空域商業應用生態系統中的關鍵角色，高可靠度的軟硬",
+  "logo": "1a2x6bmx14",
+  "capital": "600萬元",
+  "empNo": "6人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "英諾飛科技": {
+  "nameZh": "英諾飛科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "光學酬載",
+   "飛控導航"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市楊梅區",
+  "lat": null,
+  "lng": null,
+  "website": "https://infuav.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bjsnz",
+  "jobCount": 0,
+  "profile": "英諾飛科技深耕於無人載具控制領域二十多年，精通各類型載具的力學分析與控制系統設計，並實際應用於國內外各式無人機上，包含定翼機、單/多旋翼機、垂直起降型定翼機等類型機體，且不論是電動或是內燃機等各種動力類型，皆可應用。現階段已有成熟商用的通用型飛控電腦、地面導控站軟硬體、數據傳輸資料鏈與三軸雙光雲台形成一套完整的無人機方案。",
+  "logo": "1a2x6bjsnz",
+  "capital": "550萬元",
+  "empNo": "12人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "益捷科技": {
+  "nameZh": "益捷科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市豐原區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6blxsh",
+  "jobCount": 0,
+  "profile": "益捷科技成立於2021年，坐落在台中市神岡區，2024年10月遷移至豐原區新廠，致力開發大型載重多軸無人機，發展多功能載台，以符合客戶需求。大型多軸無人機開發與製造 無人機零組件開發與製造",
+  "logo": "1a2x6blxsh",
+  "capital": "5500萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "宇多田動力科技": {
+  "nameZh": "宇多田動力科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市林園區",
+  "lat": null,
+  "lng": null,
+  "website": "https://exinternational.world/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmxuj",
+  "jobCount": 0,
+  "profile": "EX INTERNATIONAL is a company specializing in the integration of UAV engine systems, dedicated to providing the most advanced and efficient power solutions. Our business scope includes design, development, and assembly, ",
+  "logo": "1a2x6bmxuj",
+  "capital": "暫不提供",
+  "empNo": "7人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他機械製造修配業"
+ },
+ "物聯電網": {
+  "nameZh": "物聯電網股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.iot-app.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bmdy9",
+  "jobCount": 0,
+  "profile": "物聯電網股份有限公司成立於104年2月，成立初期主要以物聯網專案開發為主，108年以後進入無人機產業，提供無人機培訓、組裝、客製化產業應用服務等。 主要營業項目 1.物聯網專案開發：科技保全系統、智慧建築佈建、遠距照護方案等 2.無人機系統整合：無人機系統整合、自動導航、人工智慧物聯網(AIoT)、嵌入式系統、人工智慧、數位影像處理、影像智慧辨識應用等 3.無人機培訓：無人機教育訓練規劃、比賽活動舉辦地形勘查、環保稽查等與無人機應用相關",
+  "logo": "1a2x6bmdy9",
+  "capital": "800萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "李爾航太": {
+  "nameZh": "李爾航太有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市前鎮區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6blo6l",
+  "jobCount": 0,
+  "profile": "無人機軟硬體開發公司，客戶分布於歐美市場。",
+  "logo": null,
+  "capital": "500萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "兆果科技": {
+  "nameZh": "兆果科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "服務與營運"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市",
+  "lat": null,
+  "lng": null,
+  "website": "https://gigapple.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnm7k",
+  "jobCount": 0,
+  "profile": "兆果科技股份有限公司的成立始終抱持著熱誠、創新、專業，專注於sensor fusion, multimodal deep learning等視覺方案。旗下亦有兆果精密儀器公司，秉持著以客為尊的精神為客戶提供多元及客製化的服務。兆果精密儀器有限公司 https://gigapple-3d.com/ 主要應用領域包括： • 車載自動駕駛視覺（VAV）：為自動駕駛系統提供先進的環境感知能力。",
+  "logo": "1a2x6bnm7k",
+  "capital": "795萬元",
+  "empNo": "12人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "杰興科技": {
+  "nameZh": "杰興科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市西屯區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bno0n",
+  "jobCount": 0,
+  "profile": "專司無人機、機器人相關零組件OEM\\ODM 各類自動化系統之馬達、周邊零件等 主要市場在北美、歐洲、日韓 看起來是傳產的公司，卻是一個新穎思想的團隊，整體營運90%接觸海外市場 無人機馬達 機器人關節馬達、驅動 自動化機台馬達 各類工業應用馬達",
+  "logo": null,
+  "capital": "1000萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電力機械器材製造修配業"
+ },
+ "譜曲辰農業科技": {
+  "nameZh": "譜曲辰農業科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "雲林縣斗六市",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.facebook.com/buquchain",
+  "url104": "https://www.104.com.tw/company/1a2x6bl3at",
+  "jobCount": 0,
+  "profile": "簡介: 譜曲辰(譜農)致力於農業科技研發與整合服務，協助農民應變全球氣候變遷與解決人工老化缺工問題，應用4G連網技術與整合農業科技於農業科技服務車，實現植物醫生遠端快速診斷作物病蟲害與遠端搖導控植保無人機進行噴精準噴灑，解決農民缺工、精準用料、降低成本與提高產值，並依照客戶需求，給予客製化農地照護與農產品安全控管解決方案，譜農將引領台灣農業起飛，協助農民科技務農。",
+  "logo": "1a2x6bl3at",
+  "capital": "565萬元",
+  "empNo": "14人",
+  "special": null,
+  "needsReview": false,
+  "industry": "農事及畜牧服務業"
+ },
+ "其昜電動車科技": {
+  "nameZh": "其昜電動車科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "高雄市左營區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.ahamani.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6biijx",
+  "jobCount": 0,
+  "profile": "創立於2008年的電動機車廠，通過ISO9001與交通部整車認證，並投入無人機製造與銷售。",
+  "logo": "1a2x6biijx",
+  "capital": "1億1234萬元",
+  "empNo": "35人",
+  "special": null,
+  "needsReview": false,
+  "industry": "機車及其零件製造業"
+ },
+ "博研": {
+  "nameZh": "博研股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市永和區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.cyberbrain.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bicux",
+  "jobCount": 0,
+  "profile": "無人機銷售、維修保固與平台服務商，並代理日本SoftBank行動數據連接器與WiFi租賃服務。",
+  "logo": "1a2x6bicux",
+  "capital": "3000萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "通筌科技": {
+  "nameZh": "通筌科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "彰化縣鹿港鎮",
+  "lat": null,
+  "lng": null,
+  "website": "https://tce.tw/index.php",
+  "url104": "https://www.104.com.tw/company/15a5qeww",
+  "jobCount": 0,
+  "profile": "創立於1995年的塗裝烤漆與水轉印廠，汽機車原廠指定供應商，服務延伸至無人機產業的表面處理。",
+  "logo": "15a5qeww",
+  "capital": "6600萬元",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他金屬相關製造業"
+ },
+ "仲碩科技": {
+  "nameZh": "仲碩科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "台北市內湖區",
+  "lat": null,
+  "lng": null,
+  "website": "https://jctech.tw",
+  "url104": "https://www.104.com.tw/company/5to56ag",
+  "jobCount": 0,
+  "profile": "仲碩科技成立於西元2001年，初期專業著力於安全監控系統整合研發設計製造公司，以領先的市場KNOW HOW與堅強優越的技術研發團隊，屹立於高科技數位監控市場，並佔有一席之地，打入銀行ATM即時監控系統(中興保全)，影像門禁系統，GIS地理資訊，監控管理系統，更將觸腳延伸到專業行動監控，參與國土安全市場: 包括中華電信/總統府/台電/北捷/台鐵/內政部消防署等政府機關標案，軍工無人機產業並積極轉型拓展軍工產業東南亞整合佈局。 仲碩科技深耕",
+  "logo": null,
+  "capital": "2億",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "台灣日紳寰宇": {
+  "nameZh": "台灣日紳寰宇股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "飛控導航",
+   "通訊資安"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市信義區",
+  "lat": null,
+  "lng": null,
+  "website": "http://ｗｗｗ.sunrisetaiwan.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bnnhd",
+  "jobCount": 0,
+  "profile": "台灣日紳（Sunrise Taiwan）2023 年因應國際無人載具市場所需而增設無人載具事業部，總部位於台北，核心團隊由生產製造、研發工程師及資安專家組成，專注於亞太地區一站式無人機組件供應鏈服務。確保所有零組件提供為 100% 非中國製造，具備零組件、產地之可追溯性，以符合美國國際法規標準（AUVSI Green & Blue UAS、NDAA）為客戶提供快速整合，規模生產之採購管道。",
+  "logo": "1a2x6bnnhd",
+  "capital": "1200萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "暢神影像": {
+  "nameZh": "暢神影像有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市東區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bm8k3",
+  "jobCount": 0,
+  "profile": "軟硬體整合與影像服務商，提供AI電腦視覺、無人機航拍、考照訓練與創客教育服務。",
+  "logo": "1a2x6bm8k3",
+  "capital": "100萬元",
+  "empNo": "3人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其它軟體及網路相關業"
+ },
+ "子觀工程": {
+  "nameZh": "子觀工程有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "指揮管理系統",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市西區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.sokkia.com.tw/",
+  "url104": "https://www.104.com.tw/company/18ihwtrs",
+  "jobCount": 0,
+  "profile": "森泰儀器旗下工程公司，屬日本SOKKIA測量儀器台灣總代理體系，提供測量儀器與無人機測繪相關服務。",
+  "logo": "18ihwtrs",
+  "capital": "500萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "福倈鷹航拍資訊": {
+  "nameZh": "福倈鷹航拍資訊有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市中山區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.flyingmapper.co/",
+  "url104": "https://www.104.com.tw/company/1a2x6bj46i",
+  "jobCount": 0,
+  "profile": "福倈鷹航拍資訊有限公司成立於 2012年3月，隨即以提供UAV(無人飛行載具)空拍服務，受到淡江大學育成中心之肯定，進駐育成中心，並於2012年6月，藉由「以旋翼式UAV應用於更新局部區域之正射影像研究案」獲得SBIV(經濟部中小企業處中小企業創新服務憑證補(捐)助計畫)之補助，2012年12月更進一步獲得經濟部中小企業處育成亮點企業的最高肯定。",
+  "logo": "1a2x6bj46i",
+  "capital": "500萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "群昇動能科技": {
+  "nameZh": "群昇動能科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市西屯區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.accudrive.com.tw/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnqvg",
+  "jobCount": 0,
+  "profile": "嵌入式系統與馬達驅動整合方案商，提供馬達控制、物聯網整合，以及從產品開發設計到量產的統合服務。",
+  "logo": "1a2x6bnqvg",
+  "capital": "800萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦及其週邊設備製造業"
+ },
+ "步一漾": {
+  "nameZh": "步一漾有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市松山區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.facebook.com/profile.php?id=100064127436639&mibextid=LQQJ4d",
+  "url104": "https://www.104.com.tw/company/1a2x6bmpms",
+  "jobCount": 0,
+  "profile": "多媒體相關業 無人機教學類, 微電影拍攝 微電影拍攝 CF廣告攝影, 空中攝影, 空拍教學,數位攝影KEY棚,現場直播 政府接案",
+  "logo": "1a2x6bmpms",
+  "capital": "50萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "多媒體相關業"
+ },
+ "新加坡商中華英飛能航太科技": {
+  "nameZh": "新加坡商中華英飛能航太科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "台北市中山區",
+  "lat": null,
+  "lng": null,
+  "website": "https://cht-infinity.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bmaug",
+  "jobCount": 0,
+  "profile": "新加坡商，2021年成立，整合台灣科技輸出海外市場，深耕東南亞地區的合作與發展。",
+  "logo": "1a2x6bmaug",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "華雷科技": {
+  "nameZh": "華雷科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "桃園市桃園區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.aradtek.com/",
+  "url104": "https://www.104.com.tw/company/d3jksrk",
+  "jobCount": 0,
+  "profile": "華雷科技(Advanced Radar Technology)為環隆科技股份有限公司之子公司於2006年11月新創立。主要結合國內研究機構之雷達系統開發能量及國內半導體研發與生產優勢，期望開發出具市場競爭力之民用雷達相關產品，如微波偵測器、汽車防撞雷達和生命偵測感測器等。",
+  "logo": "d3jksrk",
+  "capital": "暫不提供",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電信及通訊相關業"
+ },
+ "妍發科技": {
+  "nameZh": "妍發科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市蘆竹區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.yfa.com.tw",
+  "url104": "https://www.104.com.tw/company/7dwz6pc",
+  "jobCount": 0,
+  "profile": "成立於1997年的PCB與FPC（軟硬結合板、多層軟板）製造商，總部位於桃園蘆竹。",
+  "logo": null,
+  "capital": "2億6500萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "陞多環境生態調查": {
+  "nameZh": "陞多環境生態調查有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市烏日區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnbmd",
+  "jobCount": 0,
+  "profile": "由生物學與生態學專業者組成的調查公司，承接政府與工程顧問委託的生態調查、環境影響評估監測與生態規劃設計。",
+  "logo": null,
+  "capital": "200萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "工商顧問服務業"
+ },
+ "華好科研": {
+  "nameZh": "華好科研股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "飛控導航",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "高雄市仁武區",
+  "lat": null,
+  "lng": null,
+  "website": "https://huahaosr.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6blvk6",
+  "jobCount": 0,
+  "profile": "科研儀器與測繪裝備服務商，為科學研究與測繪領域提供軟硬體方案評估與後勤保障支援。",
+  "logo": "1a2x6blvk6",
+  "capital": "300萬元",
+  "empNo": "4人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "良佳": {
+  "nameZh": "良佳有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "新北市土城區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bmjhz",
+  "jobCount": 0,
+  "profile": "良佳有限公司創立於2009年，依循 ISO 制度管理產品品質 從機構零件到PCBA 製造到組裝QC出貨，可對應各式製程，提供有價格競争力的印刷電路板或者系統組裝產品。電路板製作 SMT/DIP/Coating，機構加工製作 铣床/車床/板金/各式表面處理。最終進行後組裝及測試檢查，並包裝出貨的一站式服務。電子零件與PCBA生產，機構設計與製造，協助開發與製程建議。硬體系統開發與整合，整機組裝服務。",
+  "logo": "1a2x6bmjhz",
+  "capital": "50萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他相關製造業"
+ },
+ "創優微圖": {
+  "nameZh": "創優微圖股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市中壢區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.cywt.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bl8ej",
+  "jobCount": 0,
+  "profile": "BIM教育與認證推廣公司，由土木、資訊與管理團隊組成，提供專業培訓、證照認證、出版與產官學研究合作。",
+  "logo": "1a2x6bl8ej",
+  "capital": "200萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "康馥科技": {
+  "nameZh": "康馥科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [
+   "國防軍事",
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "桃園市中壢區",
+  "lat": null,
+  "lng": null,
+  "website": "http://comfull.net",
+  "url104": "https://www.104.com.tw/company/1a2x6blwjz",
+  "jobCount": 0,
+  "profile": "1. UAV無人機系統開發 2. 緊急疏散導引系統 (人、交通運輸) 3. 緊急救難系統 4. 智慧醫療裝置軟體開發 5. AI大數據軟硬體系統 6. 各種無線通訊設備介接整合 (OFDM / WiFi / LoRa / BT /NB-IoT)",
+  "logo": "1a2x6blwjz",
+  "capital": "1150萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "生化科技研發業"
+ },
+ "阿富漢": {
+  "nameZh": "阿富漢有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "高雄市苓雅區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bixwn",
+  "jobCount": 0,
+  "profile": "創立於2006年的測量土木工程公司，團隊具測量與土木工程專業背景，參與國內各項工程建設的測量工作。",
+  "logo": null,
+  "capital": "100萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "土木工程業"
+ },
+ "矩冠貿易": {
+  "nameZh": "矩冠貿易有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/18oqex0o",
+  "jobCount": 0,
+  "profile": "臺 灣：矩冠貿易有限公司 1996年11月 東莞廠：永立電機有限公司 1996年11月 江蘇廠：廣泰電機(吳江)有限公司 2001年 3月 資 本：NT$ 2.5億 人 員：800人+ 150隻機器手 占 地：30000m 產 品：DC.FAN 客 戶：全球 我公司專業研發生產製造直流散熱風扇。公司成立二十多年來，專業只做直流散熱風扇。擁有客戶定制，自主研發，導入生產等全套能力。",
+  "logo": "18oqex0o",
+  "capital": "2億5000萬元",
+  "empNo": "1000人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "西盟杜": {
+  "nameZh": "西盟杜股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "零組件與材料"
+  ],
+  "apps": [
+   "國防軍事",
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "彰化縣彰化市",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.mastersimon.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnpem",
+  "jobCount": 0,
+  "profile": "創立於2013年的精密製程整合公司（MasterSimon），採接單生產（BTO）模式，以供應鏈管理與製程工程為核心，服務航太與電子產業。",
+  "logo": "1a2x6bnpem",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "航空器及其零件製造修配業"
+ },
+ "富達通科技": {
+  "nameZh": "富達通科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "通訊資安",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.rfidpower.com.tw",
+  "url104": "https://www.104.com.tw/company/d8ay5zk",
+  "jobCount": 0,
+  "profile": "富達通科技成立於2007年。核心服務：無線電力系統原創技術，提供IC與模組開發銷售。2015年榮獲COMPUTEX BC Award創新科技產品獎。2018年榮獲經濟部中小企業創新研究獎。全球唯一可量產100W以上無線充電並具有金屬異物檢測功能之廠商。Microchip(美國微蕊)高功率無線充電官方指定協力廠商 •已取得美國發明專利39張及其他多國專利，超過100張總計1000項以上專利技術。",
+  "logo": "d8ay5zk",
+  "capital": "3000萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "雷芙半導體": {
+  "nameZh": "雷芙半導體有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市內湖區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bl1k4",
+  "jobCount": 0,
+  "profile": "主要提供各項積體電路(I.C.)封裝及測試之服務 產品包含先進的導線架類及基板類封裝體， 廣泛應用於電腦、平板電腦、手機、機上盒、液晶顯示器、穿戴式裝置、智慧家電、人工智慧、無人機、語音助理、物聯網、指紋辨識器、智能汽車、虛擬實境/擴增實境、數位相機及遊戲機等產品。",
+  "logo": null,
+  "capital": "100萬元",
+  "empNo": "10人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他半導體相關業"
+ },
+ "瑞佳企業": {
+  "nameZh": "瑞佳企業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料",
+   "檢測驗證與訓練"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台中市大雅區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.reka.com.tw",
+  "url104": "https://www.104.com.tw/company/al2pewg",
+  "jobCount": 0,
+  "profile": "創立於1988年的輕金屬精密壓鑄廠，由精密設備貿易代理轉型製造，客戶多為上市櫃公司。",
+  "logo": null,
+  "capital": "3400萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他金屬相關製造業"
+ },
+ "皓準科技": {
+  "nameZh": "皓準科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造"
+  ],
+  "apps": [
+   "公共安全與救災"
+  ],
+  "flags": [],
+  "address": "台中市南區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.haojuen.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6bnqsp",
+  "jobCount": 0,
+  "profile": "皓準科技為新創公司，主要營運自行車零件客製化製造與消防型無人機製造為主。",
+  "logo": "1a2x6bnqsp",
+  "capital": "4000萬元",
+  "empNo": "35人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他金屬相關製造業"
+ },
+ "久鴻國際": {
+  "nameZh": "久鴻國際有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "飛控導航",
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市信義區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.persistek.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bl5p6",
+  "jobCount": 0,
+  "profile": "參與航太工程、國防產業與空間影像技術研發的公司，提供模擬驗證、VR/AR國防級應用與海上交通智慧控制等技術服務。",
+  "logo": "1a2x6bl5p6",
+  "capital": "1000萬元",
+  "empNo": "25人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "宏宇空間測繪資訊": {
+  "nameZh": "宏宇空間測繪資訊有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "飛控導航",
+   "檢測驗證與訓練"
+  ],
+  "apps": [
+   "基礎建設巡檢",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "新北市新店區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bl2hx",
+  "jobCount": 0,
+  "profile": "空間測繪資訊服務公司，提供測量與無人機測繪相關服務。",
+  "logo": "1a2x6bl2hx",
+  "capital": "1000萬元",
+  "empNo": "8人",
+  "special": null,
+  "needsReview": false,
+  "industry": "精密儀器相關製造業"
+ },
+ "台灣豪威國際科技": {
+  "nameZh": "台灣豪威國際科技有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "台北市內湖區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.ovt.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bng6a",
+  "jobCount": 0,
+  "profile": "OMNIVISION 成立於1995年，是全球前三大的 CMOS 影像感測器供應商，的致力於設計和開發先進的數位成像技術和產品，從事影像感測器設計、研發和市場銷售。OMNIVISION為先進數位影像解決方案開發企業，其屢屢獲獎的 CMOS 影像技術能為現今許多消費和商業應用領域提供優異影像品質，服務範圍涵蓋行動電話、筆記型電腦、平板電腦和網路攝影機、數位相機、攝影機模組、安防監控、娛樂設備、汽車和醫療影像系統等領域，滿足日與俱增的人工智",
+  "logo": "1a2x6bng6a",
+  "capital": "暫不提供",
+  "empNo": "40人",
+  "special": null,
+  "needsReview": false,
+  "industry": "綜合商品批發代理業"
+ },
+ "創思達科技": {
+  "nameZh": "創思達科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "反制C-UAS",
+   "整機製造",
+   "通訊資安"
+  ],
+  "apps": [
+   "國防軍事"
+  ],
+  "flags": [],
+  "address": "台北市大安區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bmpqi",
+  "jobCount": 0,
+  "profile": "台大電機研發團隊創立的無人機反制（C-UAS）公司，擁有全台唯一國際機場C-UAS維運實績，結合通訊技術與AI發展自主反制系統。",
+  "logo": "1a2x6bmpqi",
+  "capital": "3億",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "康鷹空間資訊": {
+  "nameZh": "康鷹空間資訊有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "南投縣南投市",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bigga",
+  "jobCount": 0,
+  "profile": "成立於1989年的測量儀器與無人機測繪服務商，提供航空測量、地形測量與儀器軟硬體銷售服務。",
+  "logo": "1a2x6bigga",
+  "capital": "1000萬元",
+  "empNo": "8人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築及工程技術服務業"
+ },
+ "逸科": {
+  "nameZh": "逸科股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "新北市中和區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.eagotech.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bk12l",
+  "jobCount": 0,
+  "profile": "逸科股份有限公司專注於馬達控制之研發並應用至eBike, 無人機, 中小型自走車, LEV等電動化載具. 主要客戶均為歐美大廠且配合新創公司之領先應用. 並在綠能及環保之日益嚴苛要求下, 提供快速, 穩定, 創新與高效之產品 無刷馬達驅動器 eBike控制器與電控套件 Drone ESC 小型自走車之馬達控制器 LEV使用之馬達控制器",
+  "logo": "1a2x6bk12l",
+  "capital": "5000萬元",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "自行車及其零件製造業"
+ },
+ "飛豬空拍": {
+  "nameZh": "飛豬空拍有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "苗栗縣頭份市",
+  "lat": null,
+  "lng": null,
+  "website": "https://flypig.cyberbiz.co",
+  "url104": "https://www.104.com.tw/company/1a2x6bmtf9",
+  "jobCount": 0,
+  "profile": "飛豬空拍有限公司為民航局遙控無人機合法法人審核通過之公司，創辦人及旗下教官都擁有民航局多旋翼專業高級證照，並且從事此領域多年。販售部分本店也是DJI特約經銷商、TELESIN品牌台灣總代理，也是INSTA360.PGYTECH品牌經銷商，本店致力於各式空拍機及運動相機主機及週邊。",
+  "logo": "1a2x6bmtf9",
+  "capital": "50萬元",
+  "empNo": "4人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電子通訊／電腦週邊零售業"
+ },
+ "峰騰測繪": {
+  "nameZh": "峰騰測繪股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "飛控導航",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "高雄市左營區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.youtube.com/channel/UCKo2cYs-avX3mnCCixvAw3Q",
+  "url104": "https://www.104.com.tw/company/1a2x6biwgk",
+  "jobCount": 0,
+  "profile": "峰騰測繪股份有限公司為一提供國家基本測量服務、以及專業3D測繪技術並致力於3D實務應用之測量公司。擁有政府核可之測繪業登記證，同時也是測繪業商業同業公會會員。主要營業項目有GNSS控制、精密水準、導線、無人機(UAV)航空攝影測量、3D Lidar雷射掃描、水深地形，數值地形測量、斷面測量、界址放樣、指定(示)建築線...等等。",
+  "logo": null,
+  "capital": "300萬元",
+  "empNo": "15人",
+  "special": null,
+  "needsReview": false,
+  "industry": "建築工程業"
+ },
+ "雷雲創新": {
+  "nameZh": "雷雲創新股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "台中市西屯區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bmjk8",
+  "jobCount": 0,
+  "profile": "本土化AI無人機新創，團隊具40年無線遙控產業與AI軟硬體開發經驗，結合台灣產業鏈能量發展國產化AI機械人。",
+  "logo": "1a2x6bmjk8",
+  "capital": "6600萬元",
+  "empNo": "20人",
+  "special": null,
+  "needsReview": false,
+  "industry": "通用機械設備製造修配業"
+ },
+ "黑鏡科技": {
+  "nameZh": "黑鏡科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "整機製造",
+   "指揮管理系統",
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台中市大里區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bmfww",
+  "jobCount": 0,
+  "profile": "無人機與資訊系統開發整合商，服務政府、學術與民營單位，提供無人載具設計製造、航拍影像處理分析，以及客製化資訊系統與IoT整合。",
+  "logo": null,
+  "capital": "450萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦系統整合服務業"
+ },
+ "翼境科技": {
+  "nameZh": "翼境科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "測繪空拍",
+   "基礎建設巡檢"
+  ],
+  "flags": [],
+  "address": "台北市中正區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6blyct",
+  "jobCount": 0,
+  "profile": "翼境科技是以航遙測監測技術與加值應用為核心，經由整合地理資訊及多元空間資料，以衛星、航空器及無人機忠實紀錄環境發展與土地利用現況，致力探究永續和諧且具韌性的環境經營管理及監控模式，並逐步推廣至各政府機關、學校團體與個人，藉此達到對環境友善且永續的社會發展目標 多元尺度空間資訊建置與加值服務",
+  "logo": "1a2x6blyct",
+  "capital": "暫不提供",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "網際網路相關業"
+ },
+ "宏茂光電": {
+  "nameZh": "宏茂光電股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新北市汐止區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.hlo-tech.com/",
+  "url104": "https://www.104.com.tw/company/1a2x6blhx0",
+  "jobCount": 0,
+  "profile": "宏茂光電股份有限公司(Health Life Optics Tech Co, Ltd. (“HLO”))，於民國105年6月17日在新北市成立。公司股票預計於民國113年第三季申請櫃檯中心興櫃掛牌交易，後續依台灣相關股票上市(櫃)的相關規定申請股票上市(櫃)掛牌交易。宏茂光電(HLO)專注於光學硬體(Optics HW)整合影像軟體(Image Processing)及演算法應用之新創公司。",
+  "logo": "1a2x6blhx0",
+  "capital": "2億265萬元",
+  "empNo": "42人",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ },
+ "昊易": {
+  "nameZh": "昊易有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "光學酬載",
+   "指揮管理系統",
+   "零組件與材料"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "桃園市楊梅區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.grididea.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bmifd",
+  "jobCount": 0,
+  "profile": "昊易公司是由客製化合作專案起家，所以擁有設計、技術、製造各方面的專業能力，主要是以發展各產業的嵌入式資料轉換模組及量測系統產品應用為主，同時也提供量測應用方面的系統整合服務。目前主力發展方向為電池管理系統，多應用在電動巴士&無人機&各項領域，另針對工廠端客戶有開發震動檢測系統&錶頭辨識系統&光學檢測系統， 未來可期。",
+  "logo": "1a2x6bmifd",
+  "capital": "300萬元",
+  "empNo": "5人",
+  "special": null,
+  "needsReview": false,
+  "industry": "消費性電子產品製造業"
+ },
+ "同美企業": {
+  "nameZh": "同美企業股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "半導體晶片",
+   "光學酬載",
+   "零組件與材料"
+  ],
+  "apps": [
+   "物流運輸"
+  ],
+  "flags": [],
+  "address": "新北市新莊區",
+  "lat": null,
+  "lng": null,
+  "website": "https://www.toungmei.com",
+  "url104": "https://www.104.com.tw/company/8km1rgg",
+  "jobCount": 0,
+  "profile": "擁有自有馬達工廠的微型馬達開發商，產品應用於無人機、雲台、汽車與醫療器材，並提供資料中心散熱冷卻液方案。",
+  "logo": "8km1rgg",
+  "capital": "3000萬元",
+  "empNo": "30人",
+  "special": null,
+  "needsReview": false,
+  "industry": "其他電子零組件相關業"
+ },
+ "酷手科技": {
+  "nameZh": "酷手科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "指揮管理系統"
+  ],
+  "apps": [],
+  "flags": [],
+  "address": "台北市中山區",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6blt0w",
+  "jobCount": 0,
+  "profile": "想像一下你的手掌是一把槍，只要動一動手指就能扣下扳機開火！操控無人機時，只需揮揮掌、左右搖動，飛機便可上上下下，輕鬆一手掌握。酷手能讓使用者手指凌空一動，萬物皆為你所用。酷手科技使用獨特的專利技術，開發新一代人機介面及手勢辨識裝置，具有小巧輕便、不受外在環境因素( 陽光，雨水，濕氣)干擾、低耗電、易於整合等特性。",
+  "logo": "1a2x6blt0w",
+  "capital": "2100萬元",
+  "empNo": "7人",
+  "special": null,
+  "needsReview": false,
+  "industry": "電腦軟體服務業"
+ },
+ "德鑫新技": {
+  "nameZh": "德鑫新技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "零組件與材料"
+  ],
+  "apps": [
+   "能源"
+  ],
+  "flags": [],
+  "address": "新竹縣竹北市",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.dxat.com.tw",
+  "url104": "https://www.104.com.tw/company/1a2x6bk9bi",
+  "jobCount": 0,
+  "profile": "2017年由具工研院鋰電池背景的團隊成立的電芯廠，專注中大型動力與儲能鋰電池，採用凝膠電解質軟包製程，強調長壽命與安全性。",
+  "logo": null,
+  "capital": "3800萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "電池製造業"
+ },
+ "恆豐科技農業": {
+  "nameZh": "恆豐科技農業有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "服務與營運"
+  ],
+  "apps": [
+   "農業"
+  ],
+  "flags": [],
+  "address": "嘉義縣水上鄉",
+  "lat": null,
+  "lng": null,
+  "website": null,
+  "url104": "https://www.104.com.tw/company/1a2x6bnbi5",
+  "jobCount": 0,
+  "profile": "農業無人機販售與維修服務商（飛友之家），提供農噴機具銷售、維修與飛手社群服務。",
+  "logo": null,
+  "capital": "100萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "農業及園藝機械製造修配業"
+ },
+ "綠創新科技": {
+  "nameZh": "綠創新科技股份有限公司",
+  "sources": [
+   "104"
+  ],
+  "roles": [
+   "通訊資安",
+   "指揮管理系統",
+   "服務與營運"
+  ],
+  "apps": [
+   "物流運輸",
+   "測繪空拍"
+  ],
+  "flags": [],
+  "address": "台北市中正區",
+  "lat": null,
+  "lng": null,
+  "website": "http://www.3rgit.com",
+  "url104": "https://www.104.com.tw/company/1a2x6bidl2",
+  "jobCount": 0,
+  "profile": "綠創新科技擁有智慧城市解決方案及技術的Total Solution且致力於開發物聯網相關產品，以分布綿密的燈桿作為城市重要基礎建設的概念。另外智慧停車計時收費系統，除可替民眾省去尋找停車位的時間，也大幅改善因民眾尋找停車位所造成的交通雍塞，並進而減少CO2的排放。綠創新的智慧城市Total Solution對推動智慧城市建設意義重大，讓決策者、規劃者及系統整合業者能有更宏觀及完整的全面性規劃。",
+  "logo": "1a2x6bidl2",
+  "capital": "3800萬元",
+  "empNo": "暫不提供",
+  "special": null,
+  "needsReview": false,
+  "industry": "光電產業"
+ }
+}
