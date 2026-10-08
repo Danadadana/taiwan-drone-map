@@ -1,7 +1,7 @@
 # 全台無人機產業地圖 Taiwan Drone Industry Map
 
 互動網站：台灣無人機產業 315 家公司分布地圖、產業鏈全景、官方政策時間軸。
-發佈於 Claude Artifact：https://claude.ai/code/artifact/d82d258f-e966-4b6a-a5ae-6375a42f950c
+網站：https://danadadana.github.io/taiwan-drone-map/（GitHub Pages，index.html 由 build 後的 drone_map.html 複製而來）
 
 ## 檔案結構
 
